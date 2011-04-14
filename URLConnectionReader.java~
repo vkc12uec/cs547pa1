@@ -71,10 +71,8 @@ public class URLConnectionReader {
 		String user_token = "u=6855f2b9-927e-4a6e-8766-fe907b235186&";
 		//String phrase = "p=happy";	// cat is happy";
 		// The bass part of the song was very moving
-		String [] myargs = {
-			"p=bass",
-		};
-		String []myargs1 = {
+		String 
+		String []myargs = {
 			"p=happy",	// -4.065331
 			"p=phantom",	// -5.197627
 			"p=phantom%20limb",	// -1.918682
