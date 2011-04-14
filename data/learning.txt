@@ -1,0 +1,28 @@
+Sanitization can refer to
+
+    * Data sanitization, has two distinct meanings:
+          o the use of anonymization and other techniques to "sanitize" (often statistical) data to purge it of personally-identifiable information in order to protect user privacy; such techniques include:[1]
+                + NULLing out
+                + masking data
+                + data substitution
+                + shuffling records
+                + number variance
+                + gibberish generation
+                + encryption
+~~~~~~~~~~~~~~~~~~~
+
+The use of cutting current for electrosurgical excision is a valuable procedure for the cutaneous surgeon.
+
+We used the 193-nm argon-fluoride excimer laser to cut plano corneal lenticules from fresh corneal tissue for lamellar keratoplasty. 
+
+Lifting is a major source of back injuries because of the mechanical effects on the spinal structures.
+
+A surgical head rest is described that gives good wrist support, provides space to place instruments, and allows drainage of irrigation fluid.
+
+In an unfortunate incident John got puzzled 
+
+fishing for some sea tone => -6.354662
+fishing for some sea fish => -2.908921
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+cancer , bass, cricket, walk, mind
