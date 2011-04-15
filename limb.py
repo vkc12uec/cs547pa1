@@ -9,12 +9,23 @@ mylist1 = ['tone', 'tone part', 'tone song', 'song moving']
 mylist2 = ['fish', 'fish part', 'fish song', 'song moving']
 # i went fishing for some sea bass
 mylist3 = ['fishing for some sea tone', 'fishing for some sea fish']
+mylist4 = ['heed to doctors prescription to marijuana', 'mind the doctors prescription to marijuana', 'listen to doctors prescription to marijuana']
+mylist5 = ['he took the doctors prescription', 'he listened to the doctors prescription', 'he mind']
+mylist6 = ['doctor prescription']
 
-md = {}
+for t in s.Generate('doctor prescription', maxgen=5): 
+	print t
 
-for item in mylist3:
+sys.exit()
+
+for item in mylist5:
     prob = s.GetConditionalProbability(item)
     print "%s => %s" % (item, str(prob))
+
+
+
+# heed to doctors prescription to marijuana
+
 """
 fishing for some sea tone => -6.354662
 fishing for some sea fish => -2.908921
