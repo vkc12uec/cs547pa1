@@ -1,24 +1,32 @@
 import MicrosoftNgram
+import sys
 
-s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/5/')
+s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/jun09/3/')
+#s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/1/')
+#s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/5/')
 #print s.GetConditionalProbability('happy cat is happy')
+#sys.exit()
 
 #sent = 'The bass part of the song was very moving'
 mylist = ['bass', 'bass part', 'bass song', 'song moving']
 mylist1 = ['tone', 'tone part', 'tone song', 'song moving']
 mylist2 = ['fish', 'fish part', 'fish song', 'song moving']
+
 # i went fishing for some sea bass
 mylist3 = ['fishing for some sea tone', 'fishing for some sea fish']
 mylist4 = ['heed to doctors prescription to marijuana', 'mind the doctors prescription to marijuana', 'listen to doctors prescription to marijuana']
 mylist5 = ['he took the doctors prescription', 'he listened to the doctors prescription', 'he mind']
-mylist6 = ['doctor prescription']
 
-for t in s.Generate('doctor prescription', maxgen=5): 
-	print t
+mylist6 = ['purchased drug for backache', 'purchased drug for the lumbar pain', 'purchased agent for the lumbar pain', 'purchased marijuana for the lumbar pain', 'purchased pain-killer for the lumbar pain', 'purchased pain-killer for the backache', 'purchased medicine for backache']
 
-sys.exit()
+mylist7 = ['purchased controlled substance for lumbar pain', 'purchased soft drug for lumbar pain']
 
-for item in mylist5:
+#for t in s.Generate('doctor prescription', maxgen=5): 
+#	print t
+
+#sys.exit()
+
+for item in mylist7:
     prob = s.GetConditionalProbability(item)
     print "%s => %s" % (item, str(prob))
 
