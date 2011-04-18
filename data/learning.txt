@@ -26,3 +26,24 @@ fishing for some sea fish => -2.908921
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 cancer , bass, cricket, walk, mind
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+April 18:
+
+http://jaganadhg.freeflux.net/blog/archive/tag/WordNet/
+~~~~~~~~~~~~~~~~~~~~~~~
+
+http://www.slideshare.net/shanbady/nltk-natural-language-processing-in-python
+
+from nltk.coprpus import wordnet as wn
+
+sysnsets = wn.synsets ('phone')
+
+print [str(syns.definitions) for sync in syssets ]
+
+syns.definitions => can be modified to output hypernyms
+
+<synset>.lowest_common_hypernyms	=> a common hypernym of 2 synsets that appear at the lowest level in hierarchy 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
