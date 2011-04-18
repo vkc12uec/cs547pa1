@@ -19,14 +19,19 @@ mylist5 = ['he took the doctors prescription', 'he listened to the doctors presc
 
 mylist6 = ['purchased drug for backache', 'purchased drug for the lumbar pain', 'purchased agent for the lumbar pain', 'purchased marijuana for the lumbar pain', 'purchased pain-killer for the lumbar pain', 'purchased pain-killer for the backache', 'purchased medicine for backache']
 
-mylist7 = ['purchased controlled substance for lumbar pain', 'purchased soft drug for lumbar pain']
+#mylist7 = ['purchased controlled substance for lumbar pain', 'purchased soft drug for lumbar pain']
+#mylist7 = ['Achromatopsia due to low cell count', 'Achromatopsia due to low visual cell count', 'Achromatopsia due to low retinal cone count']
+mylist7 = ['used prohibited drug for phantom limb pain','used soft drug for phantom limb pain', 'used controlled substance for phantom limb pain']
+#mylist7 = ['uses of soft drug for phantom limb pain', 'uses of controlled substance for phantom limb pain']
+#mylist8 = ['alcohol affects brain', 'alcohol affects mind', 'alcohol affects head']
+mylist8 = ['parkinson disease behaved demented', 'parkinson disease behaved insanely', 'parkinson disease behaved crazily', 'parkinson disease behaved disorder']
 
 #for t in s.Generate('doctor prescription', maxgen=5): 
 #	print t
 
 #sys.exit()
 
-for item in mylist7:
+for item in mylist8:
     prob = s.GetConditionalProbability(item)
     print "%s => %s" % (item, str(prob))
 
