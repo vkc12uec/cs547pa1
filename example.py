@@ -1,4 +1,5 @@
 from nltk.corpus import wordnet as wn
+import nltk
 from pprint import pprint
 
 def ex2():
@@ -12,6 +13,21 @@ def ex2():
 	#synsets = wn.synsets('resident')
 	print [ str(syns.definition) for syns in synsets ]
 	#print [ str(syns.hypernyms) for syns in synsets ]
+
+def ex5():
+	#text = nltk.word_tokenize("And now for something completely different")
+	sent = 'During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the left ventricle. This left ventricular foreign body was retrieved percutaneously by a snare'
+	text = nltk.word_tokenize(sent)
+	list = nltk.pos_tag(text)
+	for tup in list:
+		if tup[1] == 'NN':
+			print tup[0]
+			synsets = wn.synsets(tup[0], pos = wn.NOUN)
+			print [ str(syns.name) for syns in synsets ]
+			#print synsets
+			""" fragment
+			['fragment.n.01', 'shard.n.01', 'fragment.n.03']
+			"""
 
 def ex4():
 	right = wn.synset('inhabitant.n.01')
@@ -33,6 +49,7 @@ def ex1():
 		pprint(pentagon_sense.tree(hyp))
 
 if __name__ == '__main__':
-	ex4()
+	ex5()
+	#ex4()
 	#ex3()
 	#ex2()
