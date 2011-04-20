@@ -17,46 +17,34 @@ def ex2():
 	#print [ str(syns.hypernyms) for syns in synsets ]
 
 def ex6(fname):
-	fname = 'data/tty'
-	lines = open(fname, 'r').readlines()
-	for line in lines:
-		ex5(line)
+	data = open(fname, 'r').read()
+	documents = re.findall('(\.I (\d+)\n\.U\n(\d+)\n\.S\n(.+)\n\.M\n(.+)\n\.T\n(.+)\n\.P\n(.+)\n\.W\n(.+)\n\.A\n(.+)\n)', data)
 
-def list_of_nouns(sent):
-	elist = []
-	text = nltk.word_tokenize(sent)
-	list = nltk.pos_tag(text)
-	for t in list:
-		if t[1] == 'NN':
-			elist.append(t)
-	return elist
+	for i, document in enumerate(documents):
+		ex5(document[7])
+		#print "<<<<" + document[7] + " >>> "
+		
 
 def ex5(sent):
-	#listofn = list_of_nouns(sent)
-	text = nltk.word_tokenize(sent)
-	list = nltk.pos_tag(text)
-	for t in list:
-		if t[1] != 'NN':
-			continue
-		else:
-			tup = t[1]
-			synsets = wn.synsets(tup, pos=wn.NOUN)
-			print synsets[0]
-			print synsets[1]
-			sexp1 = synsets[0].common_hypernyms(synsets[1])
-			print sexp1
-			for s in sexp1:
-				print synsets[0].path_similarity(s)
-				print '----'
-				print synsets[1].path_similarity(s)
+	"""S = wn.synset
+	print S('person.n.01').lowest_common_hypernyms(S('dog.n.01'))
+	sys.exit()"""
+	tup = 'resident'
 
-			sexp = synsets[0].lowest_common_hypernyms(synsets[1])
-			print sexp[0].name.split('.')[0]
-			print sexp[0].shortest_path_distance(synsets[0])
-			print sexp[0].shortest_path_distance(synsets[1])
-			print synsets[0].root_hypernyms()
-			#print synsets[0].lowest_common_hypernyms(synsets[1])
-			sys.exit()
+	synsets = wn.synsets(tup, pos=wn.NOUN)
+	print synsets[0]
+	print synsets[1]
+	sexp1 = synsets[0].common_hypernyms(synsets[1])
+	print sexp1
+	for s in sexp1:
+		synsets[0].path_similarity(s)
+	sexp = synsets[0].lowest_common_hypernyms(synsets[1])
+	print sexp[0].name.split('.')[0]
+	print sexp[0].shortest_path_distance(synsets[0])
+	print sexp[0].shortest_path_distance(synsets[1])
+	print synsets[0].root_hypernyms()
+	#print synsets[0].lowest_common_hypernyms(synsets[1])
+	sys.exit()
 
 	S = wn.synset
 	print S('resident.n.01').lowest_common_hypernyms(S('house_physician.n.01'))
@@ -108,7 +96,7 @@ def ex1():
 		pprint(pentagon_sense.tree(hyp))
 
 if __name__ == '__main__':
-	ex6('resident')
+	ex5('resident')
 	#ex4()
 	#ex3()
 	#ex2()

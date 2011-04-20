@@ -1,5 +1,6 @@
 all:
-	java URLConnectionReader
+	python example.py
+	#java URLConnectionReader
 
 compile:
 	javac URLConnectionReader.java
