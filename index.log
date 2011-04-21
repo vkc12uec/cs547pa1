@@ -1,0 +1,13 @@
+DEBUG:root:During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the left ventricle. This left ventricular foreign body was retrieved percutaneously by a snare.
+DEBUG:root:[Synset('physical_entity.n.01'), Synset('entity.n.01')]
+DEBUG:root:sim = 0.45 and its synset = physical_entity.n.01
+DEBUG:root:During aortic valvuloplasty a guidewire was broken, and the broken physical entity remained in the left ventricle. This left ventricular foreign body was retrieved percutaneously by a snare.
+DEBUG:root:[Synset('entity.n.01')]
+DEBUG:root:sim = 0.267857142857 and its synset = entity.n.01
+DEBUG:root:During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the entity ventricle. This entity ventricular foreign body was retrieved percutaneously by a snare.
+DEBUG:root:[Synset('entity.n.01')]
+DEBUG:root:sim = 0.366666666667 and its synset = entity.n.01
+DEBUG:root:During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the left ventricle. This left ventricular foreign entity was retrieved percutaneously by a snare.
+DEBUG:root:[Synset('entity.n.01')]
+DEBUG:root:sim = 0.215909090909 and its synset = entity.n.01
+DEBUG:root:During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the left ventricle. This left ventricular foreign body was retrieved percutaneously by a entity.

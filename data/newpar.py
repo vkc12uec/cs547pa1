@@ -10,8 +10,8 @@ count = 0
 for i, document in enumerate(documents):
 	print document[7]
 	count += 1
-	if count == 5:
-		break;
+	#if count == 5:
+		#break;
 	"""ambiguity = compute_ambiguity_score(document[7])
 	ambiguities.append([i, ambiguity])"""
 
