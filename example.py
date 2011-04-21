@@ -7,16 +7,16 @@ import logging
 
 LOG_FILENAME = 'index.log'
 logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG)
+
 def ex22(mynoun):
 	synsets = wn.synsets(mynoun, pos=wn.NOUN)
 	#print [ str(syns.name) for syns in synsets ]
 	if len(synsets) < 2:
 		return 'doom'
-		return
 	#lch = synsets[0].lowest_common_hypernyms(synsets[1])
 	#print str(lch)
 	ch = synsets[0].common_hypernyms(synsets[1])
-	logging.debug (str(ch))
+	#logging.debug (str(ch))
 	sim = 0
 
 	for c in ch:
@@ -33,7 +33,7 @@ def ex22(mynoun):
 		if sim < s:
 			sim = s
 			maxs = c'''
-	logging.debug( 'sim = %s and its synset = %s' % (sim, maxs.name) )
+	#logging.debug( 'sim = %s and its synset = %s' % (sim, maxs.name) )
 	return maxs.name.split('.')[0]
 
 
@@ -70,7 +70,7 @@ def ex6(fname):
 	lines = open(fname, 'r').readlines()
 	for line in lines:
 		line = line.strip()
-		logging.debug ( line )
+		logging.debug ( str("O:")+str(line) )
 		ex5(line)
 
 	
@@ -83,7 +83,7 @@ def ex5(sent):
 			continue
 		else:
 			tup = t[0]
-			print "tup = "+tup		# the noun
+			#print "tup = "+tup		# the noun
 			replace_with = ex22(tup)
 			if replace_with == 'doom':
 				continue
@@ -111,6 +111,7 @@ def ex5(sent):
 			print synsets[0].root_hypernyms()"""
 			#print synsets[0].lowest_common_hypernyms(synsets[1])
 
+	return
 	sys.exit()
 
 	S = wn.synset
