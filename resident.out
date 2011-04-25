@@ -1,0 +1,17 @@
+python example.py
+for syn = Synset('resident.n.01')
+paths = 
+[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('person.n.01'), Synset('inhabitant.n.01'), Synset('resident.n.01')]
+
+
+[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('causal_agent.n.01'), Synset('person.n.01'), Synset('inhabitant.n.01'), Synset('resident.n.01')]
+
+
+for syn = Synset('house_physician.n.01')
+paths = 
+[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('object.n.01'), Synset('whole.n.02'), Synset('living_thing.n.01'), Synset('organism.n.01'), Synset('person.n.01'), Synset('adult.n.01'), Synset('professional.n.01'), Synset('health_professional.n.01'), Synset('medical_practitioner.n.01'), Synset('doctor.n.01'), Synset('house_physician.n.01')]
+
+
+[Synset('entity.n.01'), Synset('physical_entity.n.01'), Synset('causal_agent.n.01'), Synset('person.n.01'), Synset('adult.n.01'), Synset('professional.n.01'), Synset('health_professional.n.01'), Synset('medical_practitioner.n.01'), Synset('doctor.n.01'), Synset('house_physician.n.01')]
+
+

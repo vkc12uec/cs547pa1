@@ -120,13 +120,8 @@ def ex2():
 	synsets = wn.synsets('resident', pos=wn.NOUN)
 	#print [ str(syns.name) for syns in synsets ]
 	print synsets
-	print "\n"
-	print "1 ="+str(synsets[0].hypernym_paths())
-	print "\n"
-	print "2 ="+str(synsets[1].hypernym_paths())
-	print "\n"
+	print synsets[0].hypernym_paths()
 	sys.exit()
-
 	if len(synsets) < 2:
 		print 'doom'
 		return
@@ -186,119 +181,8 @@ def myrepl (sent, x, y):
 	logging.debug('N: '+sent.replace(x, y.replace('_', ' ')))
 	return
 
-def ex8():
-	elist = [1, 2, 3, 4, 5, 6]
-	for i in range(0, len(elist), 2):
-		print "i = " +str(i)
-		if (i+2) > len(elist):
-			break;
-		print "=="+str(elist[i]) + str(elist[i+1])
-
-def ex9(mynoun):
-	mynoun = 'resident'
-	synsets = wn.synsets(mynoun, pos=wn.NOUN)
-	for syns in synsets:
-		print 'for syn = %s' % syns
-		print 'paths = '
-		for e in syns.hypernym_paths():
-			print e
-			print '\n'
-
-def common_node_for_a_sense(asynset):
-	#input is asynset
-	mynoun = 'resident'
-	synsets = wn.synsets(mynoun, pos=wn.NOUN)
-	paths = synsets[0].hypernym_paths()
-	print str(paths)
-	for c in range(0, len(paths)):
-		paths[c].reverse()
-
-	print str(paths)
-	#sys.exit()
-	lsyn = len(paths)
-	if lsyn == 1:
-		print paths[0][0]
-	else:
-		print 'vkc'
-		ptrs = [0] * lsyn	# reading pointers
-		# say there are 2 pointers
-		while (1):
-			pointer_values = []
-			for i in range(0, lsyn):
-				n = paths[i][ptrs[i]].name
-				pointer_values.append(n)
-			check = all_same(pointer_values)
-
-			if (check == 0):
-				break;
-			else:
-				for i in range(0, lsyn):		# check here for out of index
-					ptrs[i]+=1
-				
-			'''s1 = paths[0][ptrs[0]].name
-			s2 = paths[1][ptrs[1]].name
-			print 's1 %s || s2 %s' % (s1,s2)
-			if s1 == s2:
-				ptrs[0] += 1
-				ptrs[1] += 1
-			else:
-				break;'''
-		if (ptrs[0] == 0):
-			print paths[0][0]
-		else:
-			print paths[0][ptrs[0]-1]		# return the latest commmon one
-
-def all_same(items):
-    return all(x == items[0] for x in items)
-	
-def ex7(mynoun):
-	#mynoun = 'resident'
-	mynoun = 'operation'
-	synsets = wn.synsets(mynoun, pos=wn.NOUN)	# len = 5
-	print 'synset len = '+ str(len(synsets))
-	elist = []
-	print "****" + str(synsets)
-
-	if len(synsets) == 1:
-		print 'doom' + str(synsets[0])
-	elif len(synsets) == 2:
-		print synsets[0].lowest_common_hypernyms(synsets[1])
-	else:
-		while ( len(synsets) > 2):
-			lsyn = len(synsets)
-			flag = check(lsyn)
-			for i in range(0, lsyn, 2):
-				if (i+2) > lsyn:
-					break	# take care for last odd
-				print "s1 = %s || s2 = %s" % (synsets[i], synsets[i+1])
-				commonParent = synsets[i].lowest_common_hypernyms(synsets[i+1])
-				elist.extend(commonParent)
-			if (flag == 0):
-				elist.append(synsets[lsyn-1])
-			print "elist = " + str(elist)
-			synsets = []
-			synsets = list(elist)
-			elist = []
-			print "****" + str(synsets)
-
-	if len(synsets) == 1:
-		print 'doom' + str(synsets[0])
-	elif len(synsets) == 2:
- 		print 'final '
-		print synsets[0].lowest_common_hypernyms(synsets[1])		# this is list
-	
-def check(number):
-    if number%2==0:
-        return 1
-    else:
-        return 0
-
 if __name__ == '__main__':
 	#ex6('junk')
 	#ex4()
 	#ex3()
-	#ex2()
-	#ex7("mind")
-	#ex8()
-	#ex9('jun')
-	common_node_for_a_sense('jun')
+	ex2()
