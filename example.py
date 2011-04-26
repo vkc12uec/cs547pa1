@@ -204,6 +204,141 @@ def ex9(mynoun):
 			print e
 			print '\n'
 
+
+def get_index_longest(paths):
+	ind = 0
+	if len(paths) == 1:
+		return ind
+		
+	max_len = 0
+	for i in range(0, len(paths)):
+		if len(paths[i]) > max_len:
+			max_len = len(paths[i])
+			ind = i
+	return ind
+			
+def common_parent (syn1 , syn2):
+	print 'me = common_parent'
+	paths1 = syn1.hypernym_paths()
+	paths2 = syn2.hypernym_paths()
+
+	#print 'paths1 and paths2'
+	#print str(paths1)
+	#print str(paths2)
+
+	i1 = get_index_longest(paths1)
+	i2 = get_index_longest(paths2)
+	#print 'i1 i2 || %s %s' % (i1,i2)
+	#print 'paths(i1) || paths(i2)\n'
+	#print 'doom'
+
+	l1 = list (paths1[i1])
+	l2 = list (paths2[i2])
+
+	com_p = findCommonofList(l1, l2)
+	#paths1[i1][::-1], paths2[i2][::-1])
+	return com_p
+
+def findCommonofList(l1 , l2):
+	# the lists need not start with same names
+	print 'me = findCommonofList'
+	print str(l1)
+	print str(l2)
+	p1 = 0
+	p2 = 0
+
+	'''if len(l1) == 1 or len(l2) == 1:
+		return l1[p1]					# a list just contains 1 element'''
+	while (1):
+		s1 = l1[p1].name
+		s2 = l2[p2].name
+		#print 's1 %s || s2 %s' % (s1,s2)
+		if s1 == s2:
+			p1 += 1
+			p2 += 1
+			if p1 == len(l1) or p2 == len(l2):
+				break
+		else:
+			break
+	if (p1 == 0):
+		return l1[p1]
+	else:
+		return l1[p1-1]	# common synset
+
+
+def all_same(items):
+    return all(x == items[0] for x in items)
+	
+def ex7(mynoun):
+	#mynoun = 'resident'
+	mynoun = 'operation'
+	synsets = wn.synsets(mynoun, pos=wn.NOUN)	# len = 5
+	print 'synset len = '+ str(len(synsets))
+	elist = []
+	print "all synsets :\n" + str(synsets)
+	print '**********************'
+
+	if len(synsets) == 1:
+		print 'len = 1'
+		parent_syn = synsets[0]
+	elif len(synsets) == 2:
+		print 'len = 2'
+		print 'API CALL ' + str(synsets[0].lowest_common_hypernyms(synsets[1]))
+		parent_syn = common_parent(synsets[0], synsets[1])
+		print 'my parent = ' + str(parent_syn)	
+		return
+	else:
+		while ( len(synsets) > 2):
+			elist = []
+			lsyn = len(synsets)
+			flag = check(lsyn)
+
+			for i in range(0, lsyn, 2):
+				if (i+2) > lsyn:
+					break	# take care for last odd
+				print "finding common parent of:: \ns1 = %s || s2 = %s" % (synsets[i], synsets[i+1])
+				commonParent = common_parent ( synsets[i], synsets[i+1])
+				print 'parent found = '+ str(commonParent) + '\n\n'
+				#commonParent = synsets[i].lowest_common_hypernyms(synsets[i+1])
+				elist.append(commonParent)		# we r just returning one element now
+				#elist.extend(commonParent)
+
+			if (flag == 0):
+				elist.append(synsets[lsyn-1])
+
+			print "elist = " + str(elist)
+			synsets = []
+			synsets = list(elist)
+			#print "****" + str(synsets)
+
+	print '###############################################'
+	if len(synsets) == 1:
+		print 'doom ' + str(synsets[0].name)
+		parent_syn = synsets[0]
+	elif len(synsets) == 2:
+		print 'len = 2'
+		print 'API CALL ' + str(synsets[0].lowest_common_hypernyms(synsets[1]))
+		parent_syn = common_parent(synsets[0], synsets[1])
+		print 'my parent = ' + str(parent_syn)
+
+	print 'comm parent of %s = %s' % (mynoun, (parent_syn.name))
+
+def check(number):
+    if number%2==0:
+        return 1
+    else:
+        return 0
+
+if __name__ == '__main__':
+	#ex6('junk')
+	#ex4()
+	#ex3()
+	#ex2()
+	ex7("mind")		# find the parent of 5 nodes
+	#ex8()
+	#ex9('jun')
+	#common_node_for_a_sense('jun')
+
 def common_node_for_a_sense(asynset):
 	#input is asynset
 	mynoun = 'resident'
@@ -248,57 +383,3 @@ def common_node_for_a_sense(asynset):
 		else:
 			print paths[0][ptrs[0]-1]		# return the latest commmon one
 
-def all_same(items):
-    return all(x == items[0] for x in items)
-	
-def ex7(mynoun):
-	#mynoun = 'resident'
-	mynoun = 'operation'
-	synsets = wn.synsets(mynoun, pos=wn.NOUN)	# len = 5
-	print 'synset len = '+ str(len(synsets))
-	elist = []
-	print "****" + str(synsets)
-
-	if len(synsets) == 1:
-		print 'doom' + str(synsets[0])
-	elif len(synsets) == 2:
-		print synsets[0].lowest_common_hypernyms(synsets[1])
-	else:
-		while ( len(synsets) > 2):
-			lsyn = len(synsets)
-			flag = check(lsyn)
-			for i in range(0, lsyn, 2):
-				if (i+2) > lsyn:
-					break	# take care for last odd
-				print "s1 = %s || s2 = %s" % (synsets[i], synsets[i+1])
-				commonParent = synsets[i].lowest_common_hypernyms(synsets[i+1])
-				elist.extend(commonParent)
-			if (flag == 0):
-				elist.append(synsets[lsyn-1])
-			print "elist = " + str(elist)
-			synsets = []
-			synsets = list(elist)
-			elist = []
-			print "****" + str(synsets)
-
-	if len(synsets) == 1:
-		print 'doom' + str(synsets[0])
-	elif len(synsets) == 2:
- 		print 'final '
-		print synsets[0].lowest_common_hypernyms(synsets[1])		# this is list
-	
-def check(number):
-    if number%2==0:
-        return 1
-    else:
-        return 0
-
-if __name__ == '__main__':
-	#ex6('junk')
-	#ex4()
-	#ex3()
-	#ex2()
-	#ex7("mind")
-	#ex8()
-	#ex9('jun')
-	common_node_for_a_sense('jun')
