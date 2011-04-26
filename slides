@@ -1,0 +1,53 @@
+Part 1:	improving readability by usage of the correct hypernym (using Microsoft n-gram service)
+-----------------------------------------------------------------------------------------------
+
+While providing for anonymization, we 
+	1. infer the sense of word (noun)
+	2. replace the sensitive word with a more general word (i.e. its hypernym)
+
+Now, out of various available hypernyms of a word, we have to choose the best which can give a better likelihood of 'forming a correct' sentence. 
+
+For e.g. consider a sentence having sensitive information as follows:
+	person x used marijuana for phantom limb pain
+
+hypernyms(marijuana) => {controlled substance, soft drug}
+
+person x used soft drug for phantom limb pain => -3.233194
+person x used controlled substance for phantom limb pain => -1.111096
+
+Clearly, using "soft drug" rather than "controlled substance" gives a better readability to the user.
+
+Another e.g. could be:
+	alcohol affected head
+
+//  => -5.280477
+hypernyms (head) => { brain, mind}
+
+alcohol affected brain => -2.225491
+alcohol affected mind => -5.053861
+
+Clearly, using "brain" rather than "mind" gives a better readability to the user.
+
+Part 2: Blind generalization of ambiguous abstracts
+---------------------------------------------------
+
+To see the utility variation from full generalization v/s our algorithm, we took a number of abstracts whose ambiguity values are quite high.
+
+We processed each abstract by replacing its nouns(X) by the common parent of synsets of nouns (X)
+
+For e.g.:
+
+O:A surgical head rest is described that gives good wrist support, provides space to place instruments, and allows drainage of irrigation fluid.
+
+N:A surgical entity entity is described that gives good wrist entity , provides entity to place instruments , and allows drain of activity fluid .
+
+Notations:	O:	original abstract	N:	fully generalised version
+
+###########################################################################################
+TODO:
+
+O:A case of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis.
+
+N:A entity of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis .
+
+vkc says:	dermatitis is a skin disease , but we are not generalizing it, becoz it has just one synset
