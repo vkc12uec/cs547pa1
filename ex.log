@@ -1,0 +1,38 @@
+DEBUG:root:O:During aortic valvuloplasty a guidewire was broken, and the broken fragment remained in the left ventricle. This left ventricular foreign body was retrieved percutaneously by a snare.
+DEBUG:root:noun = valvuloplasty parent = valvuloplasty
+DEBUG:root:noun = guidewire parent = guidewire
+DEBUG:root:noun = broken parent = broken
+DEBUG:root:noun = fragment parent = physical entity
+DEBUG:root:noun = left parent = entity
+DEBUG:root:noun = body parent = entity
+DEBUG:root:noun = snare parent = entity
+DEBUG:root:N:During aortic valvuloplasty a guidewire was broken , and the broken physical entity remained in the entity ventricle. This left ventricular foreign entity was retrieved percutaneously by a entity .
+DEBUG:root:O:A case of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis.
+DEBUG:root:noun = case parent = entity
+DEBUG:root:noun = autoimmune parent = autoimmune
+DEBUG:root:noun = progesterone parent = progesterone
+DEBUG:root:N:A entity of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis .
+DEBUG:root:O:A surgical head rest is described that gives good wrist support, provides space to place instruments, and allows drainage of irrigation fluid.
+DEBUG:root:noun = head parent = entity
+DEBUG:root:noun = rest parent = entity
+DEBUG:root:noun = wrist parent = wrist
+DEBUG:root:noun = support parent = entity
+DEBUG:root:noun = space parent = entity
+DEBUG:root:noun = drainage parent = drain
+DEBUG:root:noun = irrigation parent = activity
+DEBUG:root:N:A surgical entity entity is described that gives good wrist entity , provides entity to place instruments , and allows drain of activity fluid .
+DEBUG:root:O:In some respects, things are getting worse, not better, for women in science. Positive measures need to be taken for progress towards genuine equality of opportunity.
+DEBUG:root:noun = worse parent = worse
+DEBUG:root:noun = progress parent = event
+DEBUG:root:noun = equality parent = attribute
+DEBUG:root:noun = opportunity parent = opportunity
+DEBUG:root:N:In some respects , things are getting worse , not better , for women in science. Positive measures need to be taken for event towards genuine attribute of opportunity .
+DEBUG:root:O:Falling represents a common and dangerous problem for the elderly. As a result, fall prevention has become a focus of clinical attention. This article examines why older people fall, what factors place persons at risk for falling, and how to prevent falls.
+DEBUG:root:noun = problem parent = abstraction
+DEBUG:root:noun = result parent = entity
+DEBUG:root:noun = fall parent = entity
+DEBUG:root:noun = prevention parent = prevention
+DEBUG:root:noun = focus parent = entity
+DEBUG:root:noun = article parent = entity
+DEBUG:root:noun = risk parent = entity
+DEBUG:root:N:Falling represents a common and dangerous abstraction for the elderly. As a entity , entity prevention has become a entity of clinical attention. This entity examines why older people fall , what factors place persons at entity for falling , and how to prevent falls .

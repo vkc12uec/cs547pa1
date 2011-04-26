@@ -5,7 +5,7 @@ import sys
 import re
 import logging
 
-LOG_FILENAME = 'index.log'
+LOG_FILENAME = 'ex.log'
 logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG)
 
 def ex22(mynoun):
@@ -38,7 +38,8 @@ def ex22(mynoun):
 
 
 def ex6(fname):
-	fname = 'data/tty'
+	fname = 'data/tty1'
+	#fname = 'data/tty'
 	lines = open(fname, 'r').readlines()
 	for line in lines:
 		line = line.strip()
@@ -50,41 +51,21 @@ def ex5(sent):
 	#listofn = list_of_nouns(sent)
 	text = nltk.word_tokenize(sent)
 	list = nltk.pos_tag(text)
+	new_sentence = []
 	for t in list:
 		if t[1] != 'NN':
+			new_sentence.append(t[0])
 			continue
 		else:
 			tup = t[0]
-			#print "tup = "+tup		# the noun
-			replace_with = ex22(tup)
-			if replace_with == 'doom':
-				continue
-			else:
-				logging.debug (sent.replace(tup , replace_with.replace('_', ' ')))
-			#continue
-			'''synsets = wn.synsets(tup, pos=wn.NOUN)
-			if len(synsets) < 2:
-				continue
-			logging.debug (synsets[0])
-			logging.debug (synsets[1])
-			sexp1 = synsets[0].lowest_common_hypernyms(synsets[1])
-			logging.debug (tup + "===" + str(sexp1))		# this is organism but has to be person
-			myrepl (sent, tup, sexp1[0].name.split('.')[0])	# replace in the sentence tup by its common parent'''
-
-			"""for s in sexp1:
-				print synsets[0].path_similarity(s)
-				print '----'
-				print synsets[1].path_similarity(s)
-
-			sexp = synsets[0].lowest_common_hypernyms(synsets[1])
-			print sexp[0].name.split('.')[0]
-			print sexp[0].shortest_path_distance(synsets[0])
-			print sexp[0].shortest_path_distance(synsets[1])
-			print synsets[0].root_hypernyms()"""
-			#print synsets[0].lowest_common_hypernyms(synsets[1])
-
+			print "tup before calling ex7= "+tup		# the noun
+			replace_with = ex7(tup)	# returns synset.name
+			nuWord = replace_with.split('.')[0].replace('_', ' ')
+			new_sentence.append (nuWord)
+			logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
+			#new_sentence.append(replace_with.name.replace('_', ' '))
+	logging.debug ('N:' +  ' '.join(new_sentence))
 	return
-	sys.exit()
 
 	S = wn.synset
 	print S('resident.n.01').lowest_common_hypernyms(S('house_physician.n.01'))
@@ -269,24 +250,35 @@ def findCommonofList(l1 , l2):
 def all_same(items):
     return all(x == items[0] for x in items)
 	
-def ex7(mynoun):
+def ex77(mynoun):				# return the common parent synset
+	temp = ex7(mynoun)
+	print '#########' + str(temp)
+
+def ex7(mynoun):				# return the common parent synset
 	#mynoun = 'resident'
-	mynoun = 'operation'
+	#mynoun = 'snare'
 	synsets = wn.synsets(mynoun, pos=wn.NOUN)	# len = 5
 	print 'synset len = '+ str(len(synsets))
 	elist = []
-	print "all synsets :\n" + str(synsets)
+	print "all synsets :\n\n" + str(synsets)
 	print '**********************'
 
-	if len(synsets) == 1:
+	if len(synsets) == 0:
+		print 'len = 0'
+		parent_syn_name = mynoun
+		return parent_syn_name				# return the same word
+	elif len(synsets) == 1:
 		print 'len = 1'
 		parent_syn = synsets[0]
+		parent_syn_name = parent_syn.name
+		return parent_syn_name
 	elif len(synsets) == 2:
 		print 'len = 2'
 		print 'API CALL ' + str(synsets[0].lowest_common_hypernyms(synsets[1]))
 		parent_syn = common_parent(synsets[0], synsets[1])
 		print 'my parent = ' + str(parent_syn)	
-		return
+		parent_syn_name = parent_syn.name
+		return parent_syn_name
 	else:
 		while ( len(synsets) > 2):
 			elist = []
@@ -312,14 +304,18 @@ def ex7(mynoun):
 			#print "****" + str(synsets)
 
 	print '###############################################'
+
 	if len(synsets) == 1:
-		print 'doom ' + str(synsets[0].name)
 		parent_syn = synsets[0]
+		parent_syn_name = parent_syn.name
+		return parent_syn_name
 	elif len(synsets) == 2:
 		print 'len = 2'
-		print 'API CALL ' + str(synsets[0].lowest_common_hypernyms(synsets[1]))
+		#print 'API CALL ' + str(synsets[0].lowest_common_hypernyms(synsets[1]))
 		parent_syn = common_parent(synsets[0], synsets[1])
-		print 'my parent = ' + str(parent_syn)
+		parent_syn_name = parent_syn.name
+		return parent_syn_name
+		#print 'my parent = ' + str(parent_syn)
 
 	print 'comm parent of %s = %s' % (mynoun, (parent_syn.name))
 
@@ -330,11 +326,11 @@ def check(number):
         return 0
 
 if __name__ == '__main__':
-	#ex6('junk')
+	ex6('junk')
 	#ex4()
 	#ex3()
 	#ex2()
-	ex7("mind")		# find the parent of 5 nodes
+	#ex77("mind")		# find the parent of 5 nodes
 	#ex8()
 	#ex9('jun')
 	#common_node_for_a_sense('jun')
