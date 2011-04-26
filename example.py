@@ -43,17 +43,20 @@ def ex6(fname):
 	lines = open(fname, 'r').readlines()
 	for line in lines:
 		line = line.strip()
-		logging.debug ( str("O:")+str(line) )
+		logging.debug ( str("O: ")+str(line) )
 		ex5(line)
 
 	
 def ex5(sent):
 	#listofn = list_of_nouns(sent)
+	#sent = 'A case of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis'
 	text = nltk.word_tokenize(sent)
-	list = nltk.pos_tag(text)
+	tagged_list = nltk.pos_tag(text)
 	new_sentence = []
-	for t in list:
-		if t[1] != 'NN':
+	expected_tags = ['NN', 'NNS']
+	for t in tagged_list:
+		if t[1] not in expected_tags:
+			#print 't0 and t1 || %s and %s' % (t[0], t[1])
 			new_sentence.append(t[0])
 			continue
 		else:
@@ -65,7 +68,7 @@ def ex5(sent):
 			#logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
 			#new_sentence.append(replace_with.name.replace('_', ' '))
 	logging.debug ('')
-	logging.debug ('N:' +  ' '.join(new_sentence))
+	logging.debug ('N: ' +  ' '.join(new_sentence))
 	logging.debug ('')
 	return
 
@@ -100,9 +103,11 @@ def ex5(sent):
 			"""
 
 def ex2():
-	synsets = wn.synsets('resident', pos=wn.NOUN)
+	synsets = wn.synsets('dermatitis', pos=wn.NOUN)
 	#print [ str(syns.name) for syns in synsets ]
 	print synsets
+	print synsets[0].hypernyms()[0].name
+	sys.exit()
 	print "\n"
 	print "1 ="+str(synsets[0].hypernym_paths())
 	print "\n"
@@ -271,7 +276,7 @@ def ex7(mynoun):				# return the common parent synset
 		return parent_syn_name				# return the same word
 	elif len(synsets) == 1:
 		print 'len = 1'
-		parent_syn = synsets[0]
+		parent_syn = synsets[0].hypernyms()[0]		# go one level up
 		parent_syn_name = parent_syn.name
 		return parent_syn_name
 	elif len(synsets) == 2:
@@ -330,6 +335,7 @@ def check(number):
 if __name__ == '__main__':
 	ex6('junk')
 	#ex4()
+	#ex5('j')
 	#ex3()
 	#ex2()
 	#ex77("mind")		# find the parent of 5 nodes
@@ -337,47 +343,4 @@ if __name__ == '__main__':
 	#ex9('jun')
 	#common_node_for_a_sense('jun')
 
-def common_node_for_a_sense(asynset):
-	#input is asynset
-	mynoun = 'resident'
-	synsets = wn.synsets(mynoun, pos=wn.NOUN)
-	paths = synsets[0].hypernym_paths()
-	print str(paths)
-	for c in range(0, len(paths)):
-		paths[c].reverse()
-
-	print str(paths)
-	#sys.exit()
-	lsyn = len(paths)
-	if lsyn == 1:
-		print paths[0][0]
-	else:
-		print 'vkc'
-		ptrs = [0] * lsyn	# reading pointers
-		# say there are 2 pointers
-		while (1):
-			pointer_values = []
-			for i in range(0, lsyn):
-				n = paths[i][ptrs[i]].name
-				pointer_values.append(n)
-			check = all_same(pointer_values)
-
-			if (check == 0):
-				break;
-			else:
-				for i in range(0, lsyn):		# check here for out of index
-					ptrs[i]+=1
-				
-			'''s1 = paths[0][ptrs[0]].name
-			s2 = paths[1][ptrs[1]].name
-			print 's1 %s || s2 %s' % (s1,s2)
-			if s1 == s2:
-				ptrs[0] += 1
-				ptrs[1] += 1
-			else:
-				break;'''
-		if (ptrs[0] == 0):
-			print paths[0][0]
-		else:
-			print paths[0][ptrs[0]-1]		# return the latest commmon one
 
