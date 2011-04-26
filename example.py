@@ -43,7 +43,7 @@ def ex6(fname):
 	lines = open(fname, 'r').readlines()
 	for line in lines:
 		line = line.strip()
-		logging.debug ( str("O: ")+str(line) )
+		logging.debug ( str("O:")+str(line) )
 		ex5(line)
 
 	
@@ -68,7 +68,7 @@ def ex5(sent):
 			#logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
 			#new_sentence.append(replace_with.name.replace('_', ' '))
 	logging.debug ('')
-	logging.debug ('N: ' +  ' '.join(new_sentence))
+	logging.debug ('N:' +  ' '.join(new_sentence))
 	logging.debug ('')
 	return
 
