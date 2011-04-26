@@ -38,8 +38,8 @@ def ex22(mynoun):
 
 
 def ex6(fname):
-	fname = 'data/tty1'
-	#fname = 'data/tty'
+	#fname = 'data/tty1'
+	fname = 'data/tty'
 	lines = open(fname, 'r').readlines()
 	for line in lines:
 		line = line.strip()
@@ -62,9 +62,11 @@ def ex5(sent):
 			replace_with = ex7(tup)	# returns synset.name
 			nuWord = replace_with.split('.')[0].replace('_', ' ')
 			new_sentence.append (nuWord)
-			logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
+			#logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
 			#new_sentence.append(replace_with.name.replace('_', ' '))
+	logging.debug ('')
 	logging.debug ('N:' +  ' '.join(new_sentence))
+	logging.debug ('')
 	return
 
 	S = wn.synset
