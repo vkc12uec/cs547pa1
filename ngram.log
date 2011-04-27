@@ -2026,3 +2026,520 @@ total = 12 || hyp1 likelihood count = 6 || hyp2 likelihood count = 6
 clean str = 
 Lifting is a major source of back injuries because of the mechanical effects on the spinal structures  A number of methods are known by which a lifter can reduce the load on the spine during lifting  This study explores an additional method: rotation of the load before it is actually lifted
 ############### END of one sentence #################
+DEBUG:root:clean str = 
+During aortic valvuloplasty a guidewire was broken  and the broken fragment remained in the left ventricle  This left ventricular foreign body was retrieved percutaneously by a snare 
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A case of nonvesicular dermatitis herpetiformis with clear cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis 
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A surgical head rest is described that gives good wrist support  provides space to place instruments  and allows drainage of irrigation fluid 
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+In some respects  things are getting worse  not better  for women in science  Positive measures need to be taken for progress towards genuine equality of opportunity 
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## 0.0
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:total = 12 || hyp1 likelihood count = 2 || hyp2 likelihood count = 10
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Falling represents a common and dangerous problem for the elderly  As a result  fall prevention has become a focus of clinical attention  This article examines why older people fall  what factors place persons at risk for falling  and how to prevent falls 
+DEBUG:root:
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## 0.0
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## 0.0
+DEBUG:root:total = 12 || hyp1 likelihood count = 3 || hyp2 likelihood count = 9
+DEBUG:root:
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## 0.0
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## 0.0
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:total = 12 || hyp1 likelihood count = 3 || hyp2 likelihood count = 9
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+They re slow  they re hard of hearing  they don t get better  elderly patients can be a pain in the practice  Here s how to keep them away 
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Return to work data were prospectively obtained from 155 adult burn patients who were employed before their injuries  Average time from burn to return to work was 63 days  and average time from discharge to return to work was 42 days  Size and depth of burn  occurrence of hand burns  age of the
+DEBUG:root:
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:total = 12 || hyp1 likelihood count = 5 || hyp2 likelihood count = 7
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+To determine the current incidence and outcome of iatrogenic retinal breaks occurring during pars plana vitrectomy  the authors reviewed 404 consecutive operations done on eyes without preexisting retinal breaks  Thirteen eyes had 14 iatrogenic peripheral retinal breaks  Three other eyes had both peripheral breaks and posterior breaks  Twenty five eyes had 43
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The finding that patients with neglect make larger errors when bisecting longer lines could be due to failure to disengage attention from a segment of the line on the ipsilesional side  or to a reduced ability to direct attention and/or action contralaterally  The findings are reported from a patient with left sided
+DEBUG:root:
+DEBUG:root:1: sick person with ## 0.0
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## -2.120135
+DEBUG:root:2: that case ## -3.106363
+DEBUG:root:1: that sick person with ## -1.985343
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## -6.022484
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## -2.120135
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## 0.0
+DEBUG:root:2: finding that case with neglect ## -6.022484
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## -3.879554
+DEBUG:root:total = 12 || hyp1 likelihood count = 8 || hyp2 likelihood count = 4
+DEBUG:root:
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## -4.377579
+DEBUG:root:1: sick person with left sided ## -0.5679893
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: a sick person ## 0.0
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## -1.855675
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## -1.010179
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## 0.0
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:total = 11 || hyp1 likelihood count = 7 || hyp2 likelihood count = 4
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Patients with unilateral spatial neglect fail to report or respond to stimuli contralateral to the lesion which usually involves the right parietal lobe  When asked to mark the centre of a horizontal line  these patients place the mark to the right of the true midpoint  It has been considered that they
+DEBUG:root:
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:total = 4 || hyp1 likelihood count = 1 || hyp2 likelihood count = 3
+DEBUG:root:
+DEBUG:root:1: sick person place ## -3.455754
+DEBUG:root:2: case place ## -4.617804
+DEBUG:root:1: sick person place the ## -2.510509
+DEBUG:root:2: case place the ## -0.5966998
+DEBUG:root:1: sick person place the mark ## -3.793816
+DEBUG:root:2: case place the mark ## 0.0
+DEBUG:root:1: sick person place the mark to ## -1.914611
+DEBUG:root:2: case place the mark to ## -1.914611
+DEBUG:root:1: these sick person ## -2.539342
+DEBUG:root:2: these case ## -3.781136
+DEBUG:root:1: these sick person place ## -3.455754
+DEBUG:root:2: these case place ## -5.466442
+DEBUG:root:1: these sick person place the ## -2.510509
+DEBUG:root:2: these case place the ## -0.5966998
+DEBUG:root:1: these sick person place the mark ## -3.793816
+DEBUG:root:2: these case place the mark ## -3.804377
+DEBUG:root:1: line these sick person ## -2.539342
+DEBUG:root:2: line these case ## -3.885794
+DEBUG:root:1: line these sick person place ## -3.455754
+DEBUG:root:2: line these case place ## -5.466442
+DEBUG:root:1: line these sick person place the ## -2.510509
+DEBUG:root:2: line these case place the ## -0.5966998
+DEBUG:root:1: line these sick person place the mark ## -3.793816
+DEBUG:root:2: line these case place the mark ## -3.804377
+DEBUG:root:total = 12 || hyp1 likelihood count = 7 || hyp2 likelihood count = 5
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Your patients are growing older  but do they see it that way?
+DEBUG:root:
+DEBUG:root:1: sick person are ## -2.573626
+DEBUG:root:2: case are ## -2.827749
+DEBUG:root:1: sick person are growing ## -4.325148
+DEBUG:root:2: case are growing ## -4.192653
+DEBUG:root:1: sick person are growing older ## -2.453279
+DEBUG:root:2: case are growing older ## -2.453279
+DEBUG:root:1: sick person are growing older but ## 0.0
+DEBUG:root:2: case are growing older but ## -1.698187
+DEBUG:root:1: Your sick person ## -3.352527
+DEBUG:root:2: Your case ## -3.147771
+DEBUG:root:1: Your sick person are ## -2.573626
+DEBUG:root:2: Your case are ## -2.645095
+DEBUG:root:1: Your sick person are growing ## -4.325148
+DEBUG:root:2: Your case are growing ## -4.51772
+DEBUG:root:1: Your sick person are growing older ## -2.453279
+DEBUG:root:2: Your case are growing older ## -2.453279
+DEBUG:root:total = 8 || hyp1 likelihood count = 4 || hyp2 likelihood count = 4
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+We are convinced that a best interests approach is the best approach to take in making decisions to treat or not to treat disabled young infants  Such an approach acknowledges that there are some medical conditions that are so severe that efforts to sustain the lives of infants having the conditions cannot
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A third generation balloon catheter that accepts a fiberoptic has been developed  The fiberoptic is inserted through the catheter to the center of the balloon when the balloon is in the area of the retinal break  Viewed with the ophthalmoscope light at dim to off  the balloon can be seen glowing through
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A chest tube can be used to change a tracheostomy tube just as a Seldinger wire is used to change a central line  A good match for size is important  The flange should be cut off of the chest tube and the inspired oxygen should be increased  Positive pressure ventilation can
+DEBUG:root:
+DEBUG:root:1: gas should ## -3.612622
+DEBUG:root:2: chemical element should ## -3.302495
+DEBUG:root:1: gas should be ## -0.2946666
+DEBUG:root:2: chemical element should be ## -0.2930034
+DEBUG:root:1: gas should be increased ## -2.606236
+DEBUG:root:2: chemical element should be increased ## -3.116599
+DEBUG:root:1: gas should be increased Positive ## -4.725814
+DEBUG:root:2: chemical element should be increased Positive ## -4.97325
+DEBUG:root:1: inspired gas ## -3.642778
+DEBUG:root:2: inspired chemical element ## -3.365455
+DEBUG:root:1: inspired gas should ## -2.300759
+DEBUG:root:2: inspired chemical element should ## -3.302495
+DEBUG:root:1: inspired gas should be ## -0.2946666
+DEBUG:root:2: inspired chemical element should be ## -0.2930034
+DEBUG:root:1: inspired gas should be increased ## -2.606236
+DEBUG:root:2: inspired chemical element should be increased ## -3.116599
+DEBUG:root:1: the inspired gas ## -2.286533
+DEBUG:root:2: the inspired chemical element ## -3.365455
+DEBUG:root:1: the inspired gas should ## -2.453148
+DEBUG:root:2: the inspired chemical element should ## -3.302495
+DEBUG:root:1: the inspired gas should be ## -0.2946666
+DEBUG:root:2: the inspired chemical element should be ## -0.2930034
+DEBUG:root:1: the inspired gas should be increased ## -2.606236
+DEBUG:root:2: the inspired chemical element should be increased ## -3.116599
+DEBUG:root:total = 12 || hyp1 likelihood count = 7 || hyp2 likelihood count = 5
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Selection of cutoff points for tests to validate smoking cessation should take account of the prevalence of deception  When the prevalence of deception is relatively low  the cutoff points to validate quitting should be relatively high  Many studies have used cutoff points that are too low and may have underestimated cessation
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Differences of opinion exist as to whether visualization of the coronary arterial tree is better with 525 line or 1 023 line video imaging systems  The 1 023 line acquisition has been associated with image degradation  525 line display  however  has prominent raster lines that may also degrade the image  For evaluation of this issue  identical coronary
+DEBUG:root:
+DEBUG:root:1: identical coronary heart disease ## -0.008773914
+DEBUG:root:2: identical thrombosis ## -6.873343
+DEBUG:root:1: issue identical coronary heart disease ## -0.008773914
+DEBUG:root:2: issue identical thrombosis ## -7.125043
+DEBUG:root:1: this issue identical coronary heart disease ## -0.008773914
+DEBUG:root:2: this issue identical thrombosis ## -7.125043
+DEBUG:root:1: of this issue identical coronary heart disease ## -0.008773914
+DEBUG:root:2: of this issue identical thrombosis ## -7.125043
+DEBUG:root:total = 4 || hyp1 likelihood count = 4 || hyp2 likelihood count = 0
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A standardized test for measuring the needle penetration forces has been developed that can be easily replicated in any laboratory  Using this test  conventional cutting edge needles utilized in the test produced lower penetration forces than reverse cutting edge needles  The lower penetration forces encountered by the conventional cutting edge needles
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The amount of energy used to run a mile is nearly the same whether it is run at top speed or at a leisurely pace (although it is used more rapidly at the higher speed)  This puzzling independence of energy cost and speed is found generally among running animals  although  on
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+We compared  under laboratory conditions  the resistance to cutting out of the AO dynamic hip screw and the Pugh sliding nail  The mean load at cut out  adjusted for bone strength  was 70% greater for the Pugh sliding nail  The reasons for this difference are discussed 
+DEBUG:root:
+DEBUG:root:1: keeper and ## -1.527536
+DEBUG:root:2: lawman and ## -1.722714
+DEBUG:root:1: keeper and the ## -0.96314
+DEBUG:root:2: lawman and the ## -1.016696
+DEBUG:root:1: keeper and the Pugh ## -7.104347
+DEBUG:root:2: lawman and the Pugh ## -6.876257
+DEBUG:root:1: keeper and the Pugh sliding ## -5.403015
+DEBUG:root:2: lawman and the Pugh sliding ## -5.403015
+DEBUG:root:1: hip keeper ## -6.60702
+DEBUG:root:2: hip lawman ## -7.871427
+DEBUG:root:1: hip keeper and ## -1.527536
+DEBUG:root:2: hip lawman and ## 0.0
+DEBUG:root:1: hip keeper and the ## -0.96314
+DEBUG:root:2: hip lawman and the ## -1.016696
+DEBUG:root:1: hip keeper and the Pugh ## -7.104347
+DEBUG:root:2: hip lawman and the Pugh ## -6.876257
+DEBUG:root:1: dynamic hip keeper ## 0.0
+DEBUG:root:2: dynamic hip lawman ## -8.236477
+DEBUG:root:1: dynamic hip keeper and ## -1.527536
+DEBUG:root:2: dynamic hip lawman and ## -1.722714
+DEBUG:root:1: dynamic hip keeper and the ## -0.96314
+DEBUG:root:2: dynamic hip lawman and the ## -1.016696
+DEBUG:root:1: dynamic hip keeper and the Pugh ## -7.104347
+DEBUG:root:2: dynamic hip lawman and the Pugh ## -6.876257
+DEBUG:root:total = 12 || hyp1 likelihood count = 7 || hyp2 likelihood count = 5
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The purposes of this investigation were 1) to compare the forces produced by the elbow flexor muscles during make tests and break tests and 2) to determine the reliability of each of the test procedures  I used a hand held dynamometer to perform two make tests and two break tests on 27
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The authors present three cases of women who began to cut themselves superficially after they had been raped  To the authors  knowledge  no such findings have been reported in the current literature on short  and long term effects of rape 
+DEBUG:root:
+DEBUG:root:1: adult who ## -2.583957
+DEBUG:root:2: female who ## -2.555457
+DEBUG:root:1: adult who began ## -3.536966
+DEBUG:root:2: female who began ## -2.944935
+DEBUG:root:1: adult who began to ## -0.9653796
+DEBUG:root:2: female who began to ## -0.8329682
+DEBUG:root:1: adult who began to cut ## 0.0
+DEBUG:root:2: female who began to cut ## -3.197861
+DEBUG:root:1: of adult ## -3.862415
+DEBUG:root:2: of female ## -4.016344
+DEBUG:root:1: of adult who ## -3.607857
+DEBUG:root:2: of female who ## -3.472147
+DEBUG:root:1: of adult who began ## -3.489809
+DEBUG:root:2: of female who began ## -2.945039
+DEBUG:root:1: of adult who began to ## -0.9653796
+DEBUG:root:2: of female who began to ## -0.8329682
+DEBUG:root:1: cases of adult ## -3.212668
+DEBUG:root:2: cases of female ## -3.335523
+DEBUG:root:1: cases of adult who ## -3.977769
+DEBUG:root:2: cases of female who ## -3.783888
+DEBUG:root:1: cases of adult who began ## -3.489809
+DEBUG:root:2: cases of female who began ## -2.945039
+DEBUG:root:1: cases of adult who began to ## -0.9653796
+DEBUG:root:2: cases of female who began to ## -0.8329682
+DEBUG:root:total = 12 || hyp1 likelihood count = 3 || hyp2 likelihood count = 9
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Patients with neglect erred toward the right when attempting to locate the intercepts of their midsagittal planes with a horizontal line placed in front of them  When control subjects could not see their bodies  they also pointed to the right  While control subjects improved when they were able to see their
+DEBUG:root:
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## 0.0
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect erred ## -7.275308
+DEBUG:root:2: case with neglect erred ## -7.275308
+DEBUG:root:1: sick person with neglect erred toward ## 0.0
+DEBUG:root:2: case with neglect erred toward ## -3.74801
+DEBUG:root:total = 4 || hyp1 likelihood count = 2 || hyp2 likelihood count = 2
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The phenomenon of accidental death due to falls at work was studied: 15 cases that occurred during the years 1983 1987  in which a worker died from a job related fall  are presented in some detail  A discussion follows in which risk factors for these incidents are presented along with suggestions about how
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Mitotic recombination between his3 heteroalleles on heterologous chromosomes is stimulated by a DNA double chain break delivered in vivo at a site 8 6 kilobase pairs distant from one his3 allele and unlinked to the other  The induced recombination at his3 is accompanied by gap repair at the break site using the
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+This study was performed in an attempt to determine the total spinal compressive load during assembly line work to find a possible association with the many complaints of back pain  A flexion analyzer was used to register trunk movements  and analysis of postures and lifted weights was done from video recordings 
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+A sample of 81 elderly subjects (M age = 76 years) volunteered to take part in a study to determine whether the Geriatric Depression Scale (GDS) Short Form is an acceptable substitute for the GDS Long Form  Half of the subjects took the GDS Long Form first  and half took the
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Grating contrast sensitivity was measured using different colors and different grating orientations  The contrast sensitivity was highest when measured with green light  a little less when measured with red light  and lowest with blue light  The contrast sensitivity with blue light was relatively low compared with green and red light for
+DEBUG:root:
+DEBUG:root:1: autoimmune disease when ## -2.793521
+DEBUG:root:2: lupus when ## -3.162735
+DEBUG:root:1: autoimmune disease when measured ## -3.627141
+DEBUG:root:2: lupus when measured ## -3.90547
+DEBUG:root:1: autoimmune disease when measured with ## -1.352532
+DEBUG:root:2: lupus when measured with ## -1.352532
+DEBUG:root:1: autoimmune disease when measured with red ## -4.252843
+DEBUG:root:2: lupus when measured with red ## -4.252843
+DEBUG:root:1: little autoimmune disease ## -0.7275112
+DEBUG:root:2: little lupus ## -7.174429
+DEBUG:root:1: little autoimmune disease when ## -2.793521
+DEBUG:root:2: little lupus when ## -3.162735
+DEBUG:root:1: little autoimmune disease when measured ## -3.627141
+DEBUG:root:2: little lupus when measured ## -3.90547
+DEBUG:root:1: little autoimmune disease when measured with ## -1.352532
+DEBUG:root:2: little lupus when measured with ## -1.352532
+DEBUG:root:1: a little autoimmune disease ## -0.7275112
+DEBUG:root:2: a little lupus ## -7.986448
+DEBUG:root:1: a little autoimmune disease when ## -2.793521
+DEBUG:root:2: a little lupus when ## -3.162735
+DEBUG:root:1: a little autoimmune disease when measured ## -3.627141
+DEBUG:root:2: a little lupus when measured ## -3.90547
+DEBUG:root:1: a little autoimmune disease when measured with ## 0.0
+DEBUG:root:2: a little lupus when measured with ## -1.352532
+DEBUG:root:total = 12 || hyp1 likelihood count = 9 || hyp2 likelihood count = 3
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+Excessive pronation is accepted as a good indicator for various running injuries  The least amount of pronation takes place when running barefoot  The latest investigations show that this is connected to a large torsional movement between forefoot and rearfoot which can be influenced by the shoe sole construction  The shoes which
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+We report a case of a large perirenal hematoma following extracorporeal shock wave lithotripsy (ESWL) that resulted in compromised renal blood flow and function and necessitated open surgical drainage  Caution is advised and close follow up recommended in patients who have taken aspirin containing compounds  are elderly  have hypertension  or exhibit a significant drop
+DEBUG:root:
+DEBUG:root:1: sick person taken ## -4.637257
+DEBUG:root:2: case taken ## -4.473156
+DEBUG:root:1: sick person taken aspirin ## -5.373018
+DEBUG:root:2: case taken aspirin ## -5.198297
+DEBUG:root:1: sick person taken aspirin containing ## -2.996669
+DEBUG:root:2: case taken aspirin containing ## -2.996669
+DEBUG:root:1: sick person taken aspirin containing compounds ## -1.647538
+DEBUG:root:2: case taken aspirin containing compounds ## -1.647538
+DEBUG:root:1: who sick person ## -2.558905
+DEBUG:root:2: who case ## -5.16384
+DEBUG:root:1: who sick person taken ## -4.637257
+DEBUG:root:2: who case taken ## -5.023241
+DEBUG:root:1: who sick person taken aspirin ## -5.373018
+DEBUG:root:2: who case taken aspirin ## -5.198297
+DEBUG:root:1: who sick person taken aspirin containing ## -2.996669
+DEBUG:root:2: who case taken aspirin containing ## -2.996669
+DEBUG:root:1: patients who sick person ## -2.558905
+DEBUG:root:2: patients who case ## -6.481101
+DEBUG:root:1: patients who sick person taken ## 0.0
+DEBUG:root:2: patients who case taken ## -5.023241
+DEBUG:root:1: patients who sick person taken aspirin ## -5.373018
+DEBUG:root:2: patients who case taken aspirin ## -5.198297
+DEBUG:root:1: patients who sick person taken aspirin containing ## -2.996669
+DEBUG:root:2: patients who case taken aspirin containing ## -2.996669
+DEBUG:root:total = 12 || hyp1 likelihood count = 4 || hyp2 likelihood count = 8
+DEBUG:root:
+DEBUG:root:1: analgesic are ## -3.382069
+DEBUG:root:2: salicylate are ## -2.55437
+DEBUG:root:1: analgesic are elderly ## -4.68157
+DEBUG:root:2: salicylate are elderly ## -4.72714
+DEBUG:root:1: analgesic are elderly have ## -1.684478
+DEBUG:root:2: salicylate are elderly have ## -1.684478
+DEBUG:root:1: analgesic are elderly have hypertension ## -5.626831
+DEBUG:root:2: salicylate are elderly have hypertension ## -5.626831
+DEBUG:root:1: containing analgesic ## -5.071238
+DEBUG:root:2: containing salicylate ## -5.118948
+DEBUG:root:1: containing analgesic are ## -3.691832
+DEBUG:root:2: containing salicylate are ## -1.203732
+DEBUG:root:1: containing analgesic are elderly ## -4.68157
+DEBUG:root:2: containing salicylate are elderly ## -5.415587
+DEBUG:root:1: containing analgesic are elderly have ## -1.684478
+DEBUG:root:2: containing salicylate are elderly have ## -1.684478
+DEBUG:root:1: aspirin containing analgesic ## -6.426181
+DEBUG:root:2: aspirin containing salicylate ## -6.47389
+DEBUG:root:1: aspirin containing analgesic are ## -3.691832
+DEBUG:root:2: aspirin containing salicylate are ## -1.203732
+DEBUG:root:1: aspirin containing analgesic are elderly ## -4.68157
+DEBUG:root:2: aspirin containing salicylate are elderly ## -5.415587
+DEBUG:root:1: aspirin containing analgesic are elderly have ## -1.684478
+DEBUG:root:2: aspirin containing salicylate are elderly have ## -1.684478
+DEBUG:root:total = 12 || hyp1 likelihood count = 5 || hyp2 likelihood count = 7
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+The goal of the Resource Based Relative Value Scale is to measure the resource costs of physicians  services  or  more centrally  the physicians  total work  This article describes the estimation of relative values for physicians  work before and after the performance of a service (preservice and postservice work)  For methodological and practical
+DEBUG:root:
+DEBUG:root:1: nonfiction describes ## -4.899396
+DEBUG:root:2: piece describes ## -4.147455
+DEBUG:root:1: nonfiction describes the ## -0.3555982
+DEBUG:root:2: piece describes the ## -0.491801
+DEBUG:root:1: nonfiction describes the estimation ## -3.979484
+DEBUG:root:2: piece describes the estimation ## 0.0
+DEBUG:root:1: nonfiction describes the estimation of ## -0.4457109
+DEBUG:root:2: piece describes the estimation of ## -0.4457109
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction describes ## -5.525582
+DEBUG:root:2: This piece describes ## -3.366923
+DEBUG:root:1: This nonfiction describes the ## -0.3555982
+DEBUG:root:2: This piece describes the ## -0.4380267
+DEBUG:root:1: This nonfiction describes the estimation ## -3.979484
+DEBUG:root:2: This piece describes the estimation ## -4.074981
+DEBUG:root:1: work This nonfiction ## -6.531886
+DEBUG:root:2: work This piece ## -3.020494
+DEBUG:root:1: work This nonfiction describes ## -5.525582
+DEBUG:root:2: work This piece describes ## -3.515583
+DEBUG:root:1: work This nonfiction describes the ## -0.3555982
+DEBUG:root:2: work This piece describes the ## -0.4380267
+DEBUG:root:1: work This nonfiction describes the estimation ## -3.979484
+DEBUG:root:2: work This piece describes the estimation ## -4.074981
+DEBUG:root:total = 12 || hyp1 likelihood count = 5 || hyp2 likelihood count = 7
+DEBUG:root:############### END of one sentence #################
+DEBUG:root:clean str = 
+"The CEO doesn t take care of patients  the CEO takes care of the people who take care of patients " says Eire "Chip" Chapman  the president of 869 bed Riverside Methodist Hospitals  This philosophy is endorsed by other top administrators who have made a point to leave their desks to investigate first hand employee
+DEBUG:root:
+DEBUG:root:1: sick person CEO ## -5.565844
+DEBUG:root:2: case CEO ## 0.0
+DEBUG:root:1: sick person CEO takes ## -3.715925
+DEBUG:root:2: case CEO takes ## -3.765682
+DEBUG:root:1: sick person CEO takes care ## -2.782763
+DEBUG:root:2: case CEO takes care ## -2.782763
+DEBUG:root:1: sick person CEO takes care of ## -0.06902115
+DEBUG:root:2: case CEO takes care of ## -0.06902115
+DEBUG:root:1: patients sick person ## -2.411322
+DEBUG:root:2: patients case ## -3.972085
+DEBUG:root:1: patients sick person CEO ## -5.565844
+DEBUG:root:2: patients case CEO ## 0.0
+DEBUG:root:1: patients sick person CEO takes ## -3.715925
+DEBUG:root:2: patients case CEO takes ## -3.765682

@@ -33,7 +33,7 @@ def just50words():
 	fout.close()
 
 def ex5():
-	fname = 'data/tty2'
+	fname = 'data/tty2'			# contains just 50 words
 	#fname = 'data/tty1'
 	lines = open(fname, 'r').readlines()
 	for line in lines:

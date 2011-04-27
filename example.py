@@ -5,7 +5,7 @@ import sys
 import re
 import logging
 
-LOG_FILENAME = 'ex.log'
+LOG_FILENAME = 'lossex.log'
 logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG)
 
 def ex22(mynoun):
@@ -46,7 +46,54 @@ def ex6(fname):
 		logging.debug ( str("O:")+str(line) )
 		ex5(line)
 
-	
+def nb_leaves(word):
+	totalLeaves = 0;
+	synsets = wn.synsets(word.strip(), pos=wn.NOUN)
+	if len(synsets)>1:
+		hypernymLikelihood = []
+		hypernymConsulted = []
+		for synset in synsets:
+			for hypernym in set(synset.hypernyms()):
+				if not(hypernym.lemmas[0].name in hypernymConsulted):
+					totalLeaves+= len(hypernym.hyponyms())
+					#print hypernym.lemmas[0].name.replace("_", " ")
+					hypernymConsulted.append(hypernym.lemmas[0].name)
+	return totalLeaves
+
+def leaves_for_all_hyps (word):
+	c = 0
+	synsets = wn.synsets(word.strip(), pos=wn.NOUN)
+	for synset in synsets:
+		for hyp in set(synset.hypernyms()):
+			c += nb_leaves(hyp.name.split('.')[0].replace('_',' '))
+	return c
+			
+def count_changes(changed):
+	ncNum = 0
+	ncDen = 0
+	nEntity = 1
+	s = 0
+	if len(changed) == 0:
+		return
+	logging.debug ('--'.join(changed))
+	for c in changed:
+		(orig, parent_orig) = c.split(',')
+		if orig == parent_orig:
+			continue
+		if parent_orig == 'entity':
+			s += 1
+		else:
+			ncNum = nb_leaves (parent_orig)
+			ncDen = leaves_for_all_hyps(orig)		#nb_leaves (orig)
+			if ncDen == 0:
+				if ncNum == 0:
+					ncDen = 1
+				else:
+					ncDen = 3*ncNum
+			s += float(ncNum)/ncDen
+	loss = float(s)/len(changed)
+	logging.debug ('loss = %s' % loss)
+
 def ex5(sent):
 	#listofn = list_of_nouns(sent)
 	#sent = 'A case of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis'
@@ -54,6 +101,7 @@ def ex5(sent):
 	tagged_list = nltk.pos_tag(text)
 	new_sentence = []
 	expected_tags = ['NN', 'NNS']
+	changed = []
 	for t in tagged_list:
 		if t[1] not in expected_tags:
 			#print 't0 and t1 || %s and %s' % (t[0], t[1])
@@ -65,10 +113,15 @@ def ex5(sent):
 			replace_with = ex7(tup)	# returns synset.name
 			nuWord = replace_with.split('.')[0].replace('_', ' ')
 			new_sentence.append (nuWord)
+			#changed.append(nuWord)
+			changed.append('%s,%s' % (tup, nuWord))
+
 			#logging.debug ('noun = %s parent = %s' % (tup, nuWord))	#str(replace_with.split('.')[0].replace('_', ' '))))
 			#new_sentence.append(replace_with.name.replace('_', ' '))
 	logging.debug ('')
 	logging.debug ('N:' +  ' '.join(new_sentence))
+	count_changes (changed)
+	#logging.debug ('Z:' +  '||'.join(new_sentence))			# last element shows the no. of words in that sentence
 	logging.debug ('')
 	return
 
