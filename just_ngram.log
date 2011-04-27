@@ -1,0 +1,128 @@
+O: fragment remained ## -4.285106
+part remained ## -4.868066
+O: fragment remained in ## -0.786453
+part remained in ## -0.8744192
+O: fragment remained in the ## -0.3540675
+part remained in the ## -0.65387
+O: fragment remained in the left ## -3.385032
+part remained in the left ## -3.385032
+O: broken fragment ## -4.493416
+broken part ## -3.280684
+O: broken fragment remained ## -4.572145
+broken part remained ## -5.133579
+O: broken fragment remained in ## -0.786453
+broken part remained in ## -0.8744192
+O: broken fragment remained in the ## -0.3540675
+broken part remained in the ## -0.65387
+O: the broken fragment ## -3.905059
+the broken part ## -2.371154
+O: the broken fragment remained ## -4.532286
+the broken part remained ## -5.361929
+O: the broken fragment remained in ## -0.786453
+the broken part remained in ## -0.8744192
+O: the broken fragment remained in the ## -0.3540675
+the broken part remained in the ## -0.65387
+O: left ventricle ## -2.960306
+position ventricle ## -7.139539
+O: left ventricle This ## -2.060524
+position ventricle This ## -2.130928
+O: left ventricle This left ## -4.740304
+position ventricle This left ## -4.637941
+O: left ventricle This left ventricular ## -3.174812
+position ventricle This left ventricular ## -3.174812
+O: the left ## -3.049717
+the position ## -3.417588
+O: the left ventricle ## -2.331068
+the position ventricle ## -7.926946
+O: the left ventricle This ## -1.904736
+the position ventricle This ## -2.130928
+O: the left ventricle This left ## -4.750352
+the position ventricle This left ## -4.637941
+O: in the left ## -3.09911
+in the position ## -3.424207
+O: in the left ventricle ## -2.204058
+in the position ventricle ## -8.257073
+O: in the left ventricle This ## -1.561455
+in the position ventricle This ## -2.130928
+O: in the left ventricle This left ## -4.750352
+in the position ventricle This left ## -4.637941
+O: ventricle This ## -2.130928
+cavity This ## -2.305863
+O: ventricle This left ## -4.637941
+cavity This left ## -4.626161
+O: ventricle This left ventricular ## -3.174812
+cavity This left ventricular ## -3.174812
+O: ventricle This left ventricular foreign ## -6.324918
+cavity This left ventricular foreign ## -6.324918
+O: left ventricle ## -2.960306
+left cavity ## -5.341773
+O: left ventricle This ## -2.060524
+left cavity This ## -2.562685
+O: left ventricle This left ## -4.740304
+left cavity This left ## -4.626161
+O: left ventricle This left ventricular ## -3.174812
+left cavity This left ventricular ## -3.174812
+O: the left ventricle ## -2.331068
+the left cavity ## -4.668169
+O: the left ventricle This ## -1.904736
+the left cavity This ## -2.80904
+O: the left ventricle This left ## -4.750352
+the left cavity This left ## -4.626161
+O: the left ventricle This left ventricular ## -3.174812
+the left cavity This left ventricular ## -3.174812
+O: left ventricular ## -2.451509
+position ventricular ## -6.654624
+O: left ventricular foreign ## -6.083743
+position ventricular foreign ## -4.982751
+O: left ventricular foreign body ## -0.1443596
+position ventricular foreign body ## -0.1443596
+O: left ventricular foreign body was ## -2.275771
+position ventricular foreign body was ## -2.275771
+O: This left ## -4.298121
+This position ## -2.990412
+O: This left ventricular ## -3.174812
+This position ventricular ## -7.205526
+O: This left ventricular foreign ## -6.324918
+This position ventricular foreign ## -4.982751
+O: This left ventricular foreign body ## -0.1443596
+This position ventricular foreign body ## -0.1443596
+O: ventricle This left ## -4.637941
+ventricle This position ## -3.330232
+O: ventricle This left ventricular ## -3.174812
+ventricle This position ventricular ## -7.205526
+O: ventricle This left ventricular foreign ## -6.324918
+ventricle This position ventricular foreign ## -4.982751
+O: ventricle This left ventricular foreign body ## -0.1443596
+ventricle This position ventricular foreign body ## -0.1443596
+O: body was ## -2.171554
+natural object was ## -2.358019
+O: body was retrieved ## -3.115635
+natural object was retrieved ## -2.976439
+O: body was retrieved percutaneously ## -6.290001
+natural object was retrieved percutaneously ## -6.381891
+O: body was retrieved percutaneously by ## -1.859193
+natural object was retrieved percutaneously by ## -1.859193
+O: foreign body ## -2.57657
+foreign natural object ## -4.763116
+O: foreign body was ## -2.275771
+foreign natural object was ## -2.358019
+O: foreign body was retrieved ## -3.264438
+foreign natural object was retrieved ## -2.976439
+O: foreign body was retrieved percutaneously ## -6.290001
+foreign natural object was retrieved percutaneously ## -6.381891
+O: ventricular foreign body ## -0.1443596
+ventricular foreign natural object ## -4.763116
+O: ventricular foreign body was ## -2.275771
+ventricular foreign natural object was ## -2.358019
+O: ventricular foreign body was retrieved ## -3.264438
+ventricular foreign natural object was retrieved ## -2.976439
+O: ventricular foreign body was retrieved percutaneously ## -6.290001
+ventricular foreign natural object was retrieved percutaneously ## -6.381891
+O: a snare ## -5.150146
+a design ## -3.602071
+O: by a snare ## -5.153164
+by a design ## -3.665317
+O: percutaneously by a snare ## -5.153164
+percutaneously by a design ## -3.665317
+O: retrieved percutaneously by a snare ## -5.153164
+retrieved percutaneously by a design ## -3.665317

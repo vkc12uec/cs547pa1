@@ -1,0 +1,2146 @@
+DEBUG:root:clean str = 
+During aortic valvuloplasty a guidewire was broken  and the broken fragment remained in the left ventricle  This left ventricular foreign body was retrieved percutaneously by a snare 
+DEBUG:root:total = 0 || cabove = 0 || cdown = 0
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+A case of nonvesicular dermatitis herpetiformis with clear cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis 
+DEBUG:root:total = 0 || cabove = 0 || cdown = 0
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+A surgical head rest is described that gives good wrist support  provides space to place instruments  and allows drainage of irrigation fluid 
+DEBUG:root:total = 0 || cabove = 0 || cdown = 0
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+In some respects  things are getting worse  not better  for women in science  Positive measures need to be taken for progress towards genuine equality of opportunity 
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:total = 12 || cabove = 1 || cdown = 11
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+Falling represents a common and dangerous problem for the elderly  As a result  fall prevention has become a focus of clinical attention  This article examines why older people fall  what factors place persons at risk for falling  and how to prevent falls 
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:total = 36 || cabove = 6 || cdown = 30
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+They re slow  they re hard of hearing  they don t get better  elderly patients can be a pain in the practice  Here s how to keep them away 
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:total = 36 || cabove = 6 || cdown = 30
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+Return to work data were prospectively obtained from 155 adult burn patients who were employed before their injuries  Average time from burn to return to work was 63 days  and average time from discharge to return to work was 42 days  Size and depth of burn  occurrence of hand burns  age of the patient  and type of job significantly influenced return to work and return to work time  These data were compared to previous reports from this burn center and other burn centers  and it was concluded that return to work time is becoming shorter  More information must be scientifically gathered in order to determine all factors which influence return to work time  Researchers should direct their attention to those factors that are amenable to intervention from the burn team 
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:total = 60 || cabove = 19 || cdown = 41
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+To determine the current incidence and outcome of iatrogenic retinal breaks occurring during pars plana vitrectomy  the authors reviewed 404 consecutive operations done on eyes without preexisting retinal breaks  Thirteen eyes had 14 iatrogenic peripheral retinal breaks  Three other eyes had both peripheral breaks and posterior breaks  Twenty five eyes had 43 posterior breaks  The incidence of peripheral breaks was 4% and of posterior breaks was 6%  Patients with proliferative diabetic retinopathy had a higher incidence of iatrogenic retinal breaks than those with other diagnoses  Peripheral breaks occurred most commonly just posterior to the site of insertion of the vitrectomy probe  Although six eyes required reoperation  33 of 38 eyes had a successful anatomic outcome 
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## 0.0
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## -6.058985
+DEBUG:root:1: sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## -0.708133
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## -4.003859
+DEBUG:root:1: with sick person diabetic ## -6.337954
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## 0.0
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## -4.122186
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## -6.337954
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:total = 72 || cabove = 23 || cdown = 49
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+The finding that patients with neglect make larger errors when bisecting longer lines could be due to failure to disengage attention from a segment of the line on the ipsilesional side  or to a reduced ability to direct attention and/or action contralaterally  The findings are reported from a patient with left sided neglect who set the midpoint further away from the right end of lines as their length increased  a finding consistent with the latter interpretation  His errors were significantly related to length and lateral extent of lines presented in left hemispace  but only to length of lines presented in right hemispace 
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## 0.0
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## 0.0
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## 0.0
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## 0.0
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## 0.0
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## 0.0
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## 0.0
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## -6.058985
+DEBUG:root:1: sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## -0.708133
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## -4.003859
+DEBUG:root:1: with sick person diabetic ## -6.337954
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## -4.122186
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## -6.337954
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## 0.0
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## -2.120135
+DEBUG:root:2: that case ## -3.106363
+DEBUG:root:1: that sick person with ## -1.985343
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## -6.022484
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## -2.120135
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## -5.508193
+DEBUG:root:2: finding that case with neglect ## -6.022484
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## -3.879554
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## -4.377579
+DEBUG:root:1: sick person with left sided ## -0.5679893
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: sick person with left sided neglect ## -2.314996
+DEBUG:root:2: case with left sided neglect ## -1.816334
+DEBUG:root:1: a sick person ## -1.080853
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## -1.855675
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## -1.010179
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## -2.090757
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:1: dimension increased ## -4.15201
+DEBUG:root:2: fundamental quantity increased ## 0.0
+DEBUG:root:1: dimension increased a ## -2.843222
+DEBUG:root:2: fundamental quantity increased a ## 0.0
+DEBUG:root:1: dimension increased a finding ## -3.089092
+DEBUG:root:2: fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension increased a finding consistent ## 0.0
+DEBUG:root:2: fundamental quantity increased a finding consistent ## -2.324579
+DEBUG:root:1: their dimension ## -5.173382
+DEBUG:root:2: their fundamental quantity ## 0.0
+DEBUG:root:1: their dimension increased ## -4.336746
+DEBUG:root:2: their fundamental quantity increased ## -3.915564
+DEBUG:root:1: their dimension increased a ## 0.0
+DEBUG:root:2: their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: their dimension increased a finding ## -3.089092
+DEBUG:root:2: their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: as their dimension ## -5.027875
+DEBUG:root:2: as their fundamental quantity ## -4.346046
+DEBUG:root:1: as their dimension increased ## -4.336746
+DEBUG:root:2: as their fundamental quantity increased ## -3.915564
+DEBUG:root:1: as their dimension increased a ## -2.843222
+DEBUG:root:2: as their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: as their dimension increased a finding ## -3.089092
+DEBUG:root:2: as their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension and ## -1.41126
+DEBUG:root:2: fundamental quantity and ## -1.599121
+DEBUG:root:1: dimension and lateral ## 0.0
+DEBUG:root:2: fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: dimension and lateral extent ## -2.252157
+DEBUG:root:2: fundamental quantity and lateral extent ## 0.0
+DEBUG:root:1: dimension and lateral extent of ## 0.0
+DEBUG:root:2: fundamental quantity and lateral extent of ## 0.0
+DEBUG:root:1: to dimension ## -5.633036
+DEBUG:root:2: to fundamental quantity ## -3.491656
+DEBUG:root:1: to dimension and ## -1.403829
+DEBUG:root:2: to fundamental quantity and ## -3.236344
+DEBUG:root:1: to dimension and lateral ## 0.0
+DEBUG:root:2: to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: to dimension and lateral extent ## -2.252157
+DEBUG:root:2: to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: related to dimension ## -5.348518
+DEBUG:root:2: related to fundamental quantity ## -3.616113
+DEBUG:root:1: related to dimension and ## -1.002421
+DEBUG:root:2: related to fundamental quantity and ## -3.236344
+DEBUG:root:1: related to dimension and lateral ## 0.0
+DEBUG:root:2: related to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: related to dimension and lateral extent ## -2.252157
+DEBUG:root:2: related to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:total = 120 || cabove = 50 || cdown = 70
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+Patients with unilateral spatial neglect fail to report or respond to stimuli contralateral to the lesion which usually involves the right parietal lobe  When asked to mark the centre of a horizontal line  these patients place the mark to the right of the true midpoint  It has been considered that they neglect the left part of the line and bisect the perceived line segment  We investigated the eye fixation patterns of hemianopic patients with or without unilateral spatial neglect during the bisection of lines  using an eye camera  Hemianopic patients without unilateral spatial neglect saw the whole lines  searching to the endpoint on the hemianopic side  and bisected it correctly  In contrast  left hemianopics with unilateral spatial neglect never searched to the left hemianopic side  Once they fixated a certain point on the right part of the line  they persisted with this point and marked the subjective midpoint there  Taking left homonymous hemianopia into account  the subjective midpoint appeared to be marked  not at the centre of the line segment perceived in the seeing right visual field  but at the leftmost point of it  However  they could appreciate the deviation of the subjective midpoint in the right visual field when forced to fixate the left endpoint of the line  These findings suggest that the left hemisphere has the ability to estimate the midpoint of the line through the right visual field and that visuospatial disorder in the line bisection test is attributable to the pathological change in the right hemisphere  The results are interpreted to mean that left hemianopic patients with unilateral spatial neglect see a totalized image of a line extending equally to either side of the point where they are going to mark the subjective midpoint  We considered that the right hemisphere completes the line  using the visual input relating to the right part of the line perceived by the left hemisphere 
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## 0.0
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## 0.0
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## 0.0
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## 0.0
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## 0.0
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## 0.0
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## 0.0
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## 0.0
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## 0.0
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## -6.058985
+DEBUG:root:1: sick person diabetic retinopathy ## 0.0
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## -0.708133
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## -4.003859
+DEBUG:root:1: with sick person diabetic ## -6.337954
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## -4.122186
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## -6.337954
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## -2.120135
+DEBUG:root:2: that case ## -3.106363
+DEBUG:root:1: that sick person with ## 0.0
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## -6.022484
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## -2.120135
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## -5.508193
+DEBUG:root:2: finding that case with neglect ## -6.022484
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## -3.879554
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## -4.377579
+DEBUG:root:1: sick person with left sided ## -0.5679893
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: sick person with left sided neglect ## -2.314996
+DEBUG:root:2: case with left sided neglect ## -1.816334
+DEBUG:root:1: a sick person ## -1.080853
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## -1.855675
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## -1.010179
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## -2.090757
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:1: dimension increased ## -4.15201
+DEBUG:root:2: fundamental quantity increased ## -3.915564
+DEBUG:root:1: dimension increased a ## -2.843222
+DEBUG:root:2: fundamental quantity increased a ## -3.861153
+DEBUG:root:1: dimension increased a finding ## -3.089092
+DEBUG:root:2: fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension increased a finding consistent ## -2.324579
+DEBUG:root:2: fundamental quantity increased a finding consistent ## -2.324579
+DEBUG:root:1: their dimension ## -5.173382
+DEBUG:root:2: their fundamental quantity ## -4.284891
+DEBUG:root:1: their dimension increased ## -4.336746
+DEBUG:root:2: their fundamental quantity increased ## -3.915564
+DEBUG:root:1: their dimension increased a ## -2.843222
+DEBUG:root:2: their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: their dimension increased a finding ## -3.089092
+DEBUG:root:2: their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: as their dimension ## -5.027875
+DEBUG:root:2: as their fundamental quantity ## -4.346046
+DEBUG:root:1: as their dimension increased ## -4.336746
+DEBUG:root:2: as their fundamental quantity increased ## -3.915564
+DEBUG:root:1: as their dimension increased a ## -2.843222
+DEBUG:root:2: as their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: as their dimension increased a finding ## -3.089092
+DEBUG:root:2: as their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension and ## -1.41126
+DEBUG:root:2: fundamental quantity and ## -1.599121
+DEBUG:root:1: dimension and lateral ## -4.5093
+DEBUG:root:2: fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: dimension and lateral extent ## -2.252157
+DEBUG:root:2: fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: dimension and lateral extent of ## -0.1447126
+DEBUG:root:2: fundamental quantity and lateral extent of ## -0.1447126
+DEBUG:root:1: to dimension ## -5.633036
+DEBUG:root:2: to fundamental quantity ## -3.491656
+DEBUG:root:1: to dimension and ## -1.403829
+DEBUG:root:2: to fundamental quantity and ## -3.236344
+DEBUG:root:1: to dimension and lateral ## 0.0
+DEBUG:root:2: to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: to dimension and lateral extent ## -2.252157
+DEBUG:root:2: to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: related to dimension ## -5.348518
+DEBUG:root:2: related to fundamental quantity ## -3.616113
+DEBUG:root:1: related to dimension and ## -1.002421
+DEBUG:root:2: related to fundamental quantity and ## -3.236344
+DEBUG:root:1: related to dimension and lateral ## -4.681036
+DEBUG:root:2: related to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: related to dimension and lateral extent ## -2.252157
+DEBUG:root:2: related to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## 0.0
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: sick person place ## -3.455754
+DEBUG:root:2: case place ## -4.617804
+DEBUG:root:1: sick person place the ## -2.510509
+DEBUG:root:2: case place the ## -0.5966998
+DEBUG:root:1: sick person place the mark ## -3.793816
+DEBUG:root:2: case place the mark ## -3.804377
+DEBUG:root:1: sick person place the mark to ## -1.914611
+DEBUG:root:2: case place the mark to ## -1.914611
+DEBUG:root:1: these sick person ## -2.539342
+DEBUG:root:2: these case ## -3.781136
+DEBUG:root:1: these sick person place ## -3.455754
+DEBUG:root:2: these case place ## -5.466442
+DEBUG:root:1: these sick person place the ## -2.510509
+DEBUG:root:2: these case place the ## 0.0
+DEBUG:root:1: these sick person place the mark ## -3.793816
+DEBUG:root:2: these case place the mark ## 0.0
+DEBUG:root:1: line these sick person ## -2.539342
+DEBUG:root:2: line these case ## -3.885794
+DEBUG:root:1: line these sick person place ## -3.455754
+DEBUG:root:2: line these case place ## -5.466442
+DEBUG:root:1: line these sick person place the ## -2.510509
+DEBUG:root:2: line these case place the ## 0.0
+DEBUG:root:1: line these sick person place the mark ## -3.793816
+DEBUG:root:2: line these case place the mark ## -3.804377
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with or ## -3.130601
+DEBUG:root:2: case with or ## -3.075375
+DEBUG:root:1: sick person with or without ## -0.1055489
+DEBUG:root:2: case with or without ## -0.03582537
+DEBUG:root:1: sick person with or without unilateral ## -5.237921
+DEBUG:root:2: case with or without unilateral ## -4.982627
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## -1.92712
+DEBUG:root:1: hemianopic sick person with or ## -3.130601
+DEBUG:root:2: hemianopic case with or ## -3.075375
+DEBUG:root:1: hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: hemianopic case with or without ## -0.03582537
+DEBUG:root:1: of hemianopic sick person ## -2.140361
+DEBUG:root:2: of hemianopic case ## -4.994365
+DEBUG:root:1: of hemianopic sick person with ## -1.944321
+DEBUG:root:2: of hemianopic case with ## -1.92712
+DEBUG:root:1: of hemianopic sick person with or ## 0.0
+DEBUG:root:2: of hemianopic case with or ## -3.075375
+DEBUG:root:1: of hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: of hemianopic case with or without ## -0.03582537
+DEBUG:root:1: sick person without ## -2.894773
+DEBUG:root:2: case without ## -3.225383
+DEBUG:root:1: sick person without unilateral ## 0.0
+DEBUG:root:2: case without unilateral ## -6.082653
+DEBUG:root:1: sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person without unilateral spatial neglect ## -0.009264463
+DEBUG:root:2: case without unilateral spatial neglect ## -0.009264463
+DEBUG:root:1: Hemianopic sick person ## -2.140361
+DEBUG:root:2: Hemianopic case ## -4.4762
+DEBUG:root:1: Hemianopic sick person without ## -2.894773
+DEBUG:root:2: Hemianopic case without ## -3.225383
+DEBUG:root:1: Hemianopic sick person without unilateral ## 0.0
+DEBUG:root:2: Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: camera Hemianopic sick person ## -2.140361
+DEBUG:root:2: camera Hemianopic case ## -4.4762
+DEBUG:root:1: camera Hemianopic sick person without ## -2.894773
+DEBUG:root:2: camera Hemianopic case without ## -3.225383
+DEBUG:root:1: camera Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: camera Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: camera Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: camera Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## 0.0
+DEBUG:root:1: hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: left hemianopic sick person ## -2.140361
+DEBUG:root:2: left hemianopic case ## 0.0
+DEBUG:root:1: left hemianopic sick person with ## -1.944321
+DEBUG:root:2: left hemianopic case with ## -1.92712
+DEBUG:root:1: left hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: left hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: left hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: left hemianopic case with unilateral spatial ## 0.0
+DEBUG:root:total = 172 || cabove = 66 || cdown = 106
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+Your patients are growing older  but do they see it that way?
+DEBUG:root:
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## 0.0
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## 0.0
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## 0.0
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## 0.0
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## 0.0
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## 0.0
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## 0.0
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## 0.0
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## 0.0
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## 0.0
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## 0.0
+DEBUG:root:2: the case and ## 0.0
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## 0.0
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## -6.058985
+DEBUG:root:1: sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## 0.0
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## -0.708133
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## 0.0
+DEBUG:root:1: with sick person diabetic ## 0.0
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## 0.0
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## -4.122186
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## -6.337954
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## 0.0
+DEBUG:root:2: that case ## -3.106363
+DEBUG:root:1: that sick person with ## -1.985343
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## -6.022484
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## -2.120135
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## -5.508193
+DEBUG:root:2: finding that case with neglect ## 0.0
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## 0.0
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## 0.0
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## -4.377579
+DEBUG:root:1: sick person with left sided ## -0.5679893
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: sick person with left sided neglect ## -2.314996
+DEBUG:root:2: case with left sided neglect ## -1.816334
+DEBUG:root:1: a sick person ## -1.080853
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## -1.855675
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## 0.0
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## -2.090757
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:1: dimension increased ## -4.15201
+DEBUG:root:2: fundamental quantity increased ## -3.915564
+DEBUG:root:1: dimension increased a ## -2.843222
+DEBUG:root:2: fundamental quantity increased a ## -3.861153
+DEBUG:root:1: dimension increased a finding ## 0.0
+DEBUG:root:2: fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension increased a finding consistent ## -2.324579
+DEBUG:root:2: fundamental quantity increased a finding consistent ## -2.324579
+DEBUG:root:1: their dimension ## -5.173382
+DEBUG:root:2: their fundamental quantity ## -4.284891
+DEBUG:root:1: their dimension increased ## -4.336746
+DEBUG:root:2: their fundamental quantity increased ## -3.915564
+DEBUG:root:1: their dimension increased a ## -2.843222
+DEBUG:root:2: their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: their dimension increased a finding ## -3.089092
+DEBUG:root:2: their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: as their dimension ## -5.027875
+DEBUG:root:2: as their fundamental quantity ## -4.346046
+DEBUG:root:1: as their dimension increased ## -4.336746
+DEBUG:root:2: as their fundamental quantity increased ## -3.915564
+DEBUG:root:1: as their dimension increased a ## -2.843222
+DEBUG:root:2: as their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: as their dimension increased a finding ## -3.089092
+DEBUG:root:2: as their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension and ## -1.41126
+DEBUG:root:2: fundamental quantity and ## -1.599121
+DEBUG:root:1: dimension and lateral ## -4.5093
+DEBUG:root:2: fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: dimension and lateral extent ## -2.252157
+DEBUG:root:2: fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: dimension and lateral extent of ## -0.1447126
+DEBUG:root:2: fundamental quantity and lateral extent of ## -0.1447126
+DEBUG:root:1: to dimension ## -5.633036
+DEBUG:root:2: to fundamental quantity ## -3.491656
+DEBUG:root:1: to dimension and ## -1.403829
+DEBUG:root:2: to fundamental quantity and ## -3.236344
+DEBUG:root:1: to dimension and lateral ## -4.681036
+DEBUG:root:2: to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: to dimension and lateral extent ## -2.252157
+DEBUG:root:2: to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: related to dimension ## -5.348518
+DEBUG:root:2: related to fundamental quantity ## -3.616113
+DEBUG:root:1: related to dimension and ## -1.002421
+DEBUG:root:2: related to fundamental quantity and ## -3.236344
+DEBUG:root:1: related to dimension and lateral ## -4.681036
+DEBUG:root:2: related to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: related to dimension and lateral extent ## -2.252157
+DEBUG:root:2: related to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: sick person place ## -3.455754
+DEBUG:root:2: case place ## -4.617804
+DEBUG:root:1: sick person place the ## -2.510509
+DEBUG:root:2: case place the ## -0.5966998
+DEBUG:root:1: sick person place the mark ## -3.793816
+DEBUG:root:2: case place the mark ## -3.804377
+DEBUG:root:1: sick person place the mark to ## -1.914611
+DEBUG:root:2: case place the mark to ## -1.914611
+DEBUG:root:1: these sick person ## -2.539342
+DEBUG:root:2: these case ## -3.781136
+DEBUG:root:1: these sick person place ## -3.455754
+DEBUG:root:2: these case place ## -5.466442
+DEBUG:root:1: these sick person place the ## -2.510509
+DEBUG:root:2: these case place the ## -0.5966998
+DEBUG:root:1: these sick person place the mark ## -3.793816
+DEBUG:root:2: these case place the mark ## -3.804377
+DEBUG:root:1: line these sick person ## -2.539342
+DEBUG:root:2: line these case ## -3.885794
+DEBUG:root:1: line these sick person place ## -3.455754
+DEBUG:root:2: line these case place ## -5.466442
+DEBUG:root:1: line these sick person place the ## -2.510509
+DEBUG:root:2: line these case place the ## -0.5966998
+DEBUG:root:1: line these sick person place the mark ## -3.793816
+DEBUG:root:2: line these case place the mark ## -3.804377
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with or ## -3.130601
+DEBUG:root:2: case with or ## -3.075375
+DEBUG:root:1: sick person with or without ## -0.1055489
+DEBUG:root:2: case with or without ## -0.03582537
+DEBUG:root:1: sick person with or without unilateral ## -5.237921
+DEBUG:root:2: case with or without unilateral ## -4.982627
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## 0.0
+DEBUG:root:1: hemianopic sick person with or ## -3.130601
+DEBUG:root:2: hemianopic case with or ## -3.075375
+DEBUG:root:1: hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: hemianopic case with or without ## 0.0
+DEBUG:root:1: of hemianopic sick person ## -2.140361
+DEBUG:root:2: of hemianopic case ## -4.994365
+DEBUG:root:1: of hemianopic sick person with ## -1.944321
+DEBUG:root:2: of hemianopic case with ## -1.92712
+DEBUG:root:1: of hemianopic sick person with or ## -3.130601
+DEBUG:root:2: of hemianopic case with or ## -3.075375
+DEBUG:root:1: of hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: of hemianopic case with or without ## -0.03582537
+DEBUG:root:1: sick person without ## -2.894773
+DEBUG:root:2: case without ## -3.225383
+DEBUG:root:1: sick person without unilateral ## -6.313619
+DEBUG:root:2: case without unilateral ## -6.082653
+DEBUG:root:1: sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person without unilateral spatial neglect ## -0.009264463
+DEBUG:root:2: case without unilateral spatial neglect ## -0.009264463
+DEBUG:root:1: Hemianopic sick person ## -2.140361
+DEBUG:root:2: Hemianopic case ## -4.4762
+DEBUG:root:1: Hemianopic sick person without ## -2.894773
+DEBUG:root:2: Hemianopic case without ## -3.225383
+DEBUG:root:1: Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: camera Hemianopic sick person ## -2.140361
+DEBUG:root:2: camera Hemianopic case ## -4.4762
+DEBUG:root:1: camera Hemianopic sick person without ## -2.894773
+DEBUG:root:2: camera Hemianopic case without ## 0.0
+DEBUG:root:1: camera Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: camera Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: camera Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: camera Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person with ## 0.0
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## 0.0
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## -1.92712
+DEBUG:root:1: hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: left hemianopic sick person ## -2.140361
+DEBUG:root:2: left hemianopic case ## 0.0
+DEBUG:root:1: left hemianopic sick person with ## -1.944321
+DEBUG:root:2: left hemianopic case with ## -1.92712
+DEBUG:root:1: left hemianopic sick person with unilateral ## 0.0
+DEBUG:root:2: left hemianopic case with unilateral ## 0.0
+DEBUG:root:1: left hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: left hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person are ## -2.573626
+DEBUG:root:2: case are ## -2.827749
+DEBUG:root:1: sick person are growing ## -4.325148
+DEBUG:root:2: case are growing ## -4.192653
+DEBUG:root:1: sick person are growing older ## -2.453279
+DEBUG:root:2: case are growing older ## -2.453279
+DEBUG:root:1: sick person are growing older but ## -1.698187
+DEBUG:root:2: case are growing older but ## -1.698187
+DEBUG:root:1: Your sick person ## -3.352527
+DEBUG:root:2: Your case ## -3.147771
+DEBUG:root:1: Your sick person are ## -2.573626
+DEBUG:root:2: Your case are ## -2.645095
+DEBUG:root:1: Your sick person are growing ## -4.325148
+DEBUG:root:2: Your case are growing ## -4.51772
+DEBUG:root:1: Your sick person are growing older ## -2.453279
+DEBUG:root:2: Your case are growing older ## -2.453279
+DEBUG:root:total = 180 || cabove = 72 || cdown = 108
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+We are convinced that a best interests approach is the best approach to take in making decisions to treat or not to treat disabled young infants  Such an approach acknowledges that there are some medical conditions that are so severe that efforts to sustain the lives of infants having the conditions cannot be said to be in the best interests of those infants  By paying attention to the variables that compose the best interests approach  decision makers can arrive at decisions not to sustain life that are more easily justifiable than with any other approach 
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## -3.970356
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## 0.0
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## 0.0
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## -3.207149
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## -3.520978
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## 0.0
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## -4.940079
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## -2.492324
+DEBUG:root:2: piece examines why older people ## 0.0
+DEBUG:root:1: This nonfiction ## 0.0
+DEBUG:root:2: This piece ## -3.319367
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## -3.473517
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## -1.962337
+DEBUG:root:1: This nonfiction examines why older ## 0.0
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## 0.0
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## 0.0
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## 0.0
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## -7.353934
+DEBUG:root:1: factors place causal agent at ## -2.854021
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## 0.0
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## -2.523614
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## 0.0
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## 0.0
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## 0.0
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## 0.0
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## 0.0
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## 0.0
+DEBUG:root:1: sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## -0.708133
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## -4.003859
+DEBUG:root:1: with sick person diabetic ## 0.0
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## 0.0
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## 0.0
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## -2.120135
+DEBUG:root:2: that case ## 0.0
+DEBUG:root:1: that sick person with ## -1.985343
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## 0.0
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## 0.0
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## -5.508193
+DEBUG:root:2: finding that case with neglect ## -6.022484
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## -3.879554
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## -4.377579
+DEBUG:root:1: sick person with left sided ## -0.5679893
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: sick person with left sided neglect ## -2.314996
+DEBUG:root:2: case with left sided neglect ## -1.816334
+DEBUG:root:1: a sick person ## 0.0
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## -1.855675
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## -1.010179
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## -2.090757
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:1: dimension increased ## -4.15201
+DEBUG:root:2: fundamental quantity increased ## -3.915564
+DEBUG:root:1: dimension increased a ## -2.843222
+DEBUG:root:2: fundamental quantity increased a ## -3.861153
+DEBUG:root:1: dimension increased a finding ## -3.089092
+DEBUG:root:2: fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension increased a finding consistent ## -2.324579
+DEBUG:root:2: fundamental quantity increased a finding consistent ## -2.324579
+DEBUG:root:1: their dimension ## -5.173382
+DEBUG:root:2: their fundamental quantity ## -4.284891
+DEBUG:root:1: their dimension increased ## 0.0
+DEBUG:root:2: their fundamental quantity increased ## -3.915564
+DEBUG:root:1: their dimension increased a ## -2.843222
+DEBUG:root:2: their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: their dimension increased a finding ## 0.0
+DEBUG:root:2: their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: as their dimension ## -5.027875
+DEBUG:root:2: as their fundamental quantity ## -4.346046
+DEBUG:root:1: as their dimension increased ## 0.0
+DEBUG:root:2: as their fundamental quantity increased ## -3.915564
+DEBUG:root:1: as their dimension increased a ## -2.843222
+DEBUG:root:2: as their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: as their dimension increased a finding ## -3.089092
+DEBUG:root:2: as their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension and ## -1.41126
+DEBUG:root:2: fundamental quantity and ## -1.599121
+DEBUG:root:1: dimension and lateral ## -4.5093
+DEBUG:root:2: fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: dimension and lateral extent ## -2.252157
+DEBUG:root:2: fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: dimension and lateral extent of ## -0.1447126
+DEBUG:root:2: fundamental quantity and lateral extent of ## -0.1447126
+DEBUG:root:1: to dimension ## -5.633036
+DEBUG:root:2: to fundamental quantity ## -3.491656
+DEBUG:root:1: to dimension and ## -1.403829
+DEBUG:root:2: to fundamental quantity and ## -3.236344
+DEBUG:root:1: to dimension and lateral ## -4.681036
+DEBUG:root:2: to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: to dimension and lateral extent ## 0.0
+DEBUG:root:2: to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: related to dimension ## -5.348518
+DEBUG:root:2: related to fundamental quantity ## -3.616113
+DEBUG:root:1: related to dimension and ## -1.002421
+DEBUG:root:2: related to fundamental quantity and ## -3.236344
+DEBUG:root:1: related to dimension and lateral ## -4.681036
+DEBUG:root:2: related to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: related to dimension and lateral extent ## -2.252157
+DEBUG:root:2: related to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## 0.0
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## 0.0
+DEBUG:root:1: sick person place ## -3.455754
+DEBUG:root:2: case place ## -4.617804
+DEBUG:root:1: sick person place the ## -2.510509
+DEBUG:root:2: case place the ## -0.5966998
+DEBUG:root:1: sick person place the mark ## -3.793816
+DEBUG:root:2: case place the mark ## -3.804377
+DEBUG:root:1: sick person place the mark to ## 0.0
+DEBUG:root:2: case place the mark to ## 0.0
+DEBUG:root:1: these sick person ## -2.539342
+DEBUG:root:2: these case ## -3.781136
+DEBUG:root:1: these sick person place ## -3.455754
+DEBUG:root:2: these case place ## -5.466442
+DEBUG:root:1: these sick person place the ## -2.510509
+DEBUG:root:2: these case place the ## -0.5966998
+DEBUG:root:1: these sick person place the mark ## -3.793816
+DEBUG:root:2: these case place the mark ## 0.0
+DEBUG:root:1: line these sick person ## -2.539342
+DEBUG:root:2: line these case ## -3.885794
+DEBUG:root:1: line these sick person place ## -3.455754
+DEBUG:root:2: line these case place ## 0.0
+DEBUG:root:1: line these sick person place the ## -2.510509
+DEBUG:root:2: line these case place the ## -0.5966998
+DEBUG:root:1: line these sick person place the mark ## 0.0
+DEBUG:root:2: line these case place the mark ## -3.804377
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with or ## -3.130601
+DEBUG:root:2: case with or ## -3.075375
+DEBUG:root:1: sick person with or without ## -0.1055489
+DEBUG:root:2: case with or without ## 0.0
+DEBUG:root:1: sick person with or without unilateral ## -5.237921
+DEBUG:root:2: case with or without unilateral ## -4.982627
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## 0.0
+DEBUG:root:1: hemianopic sick person with or ## -3.130601
+DEBUG:root:2: hemianopic case with or ## -3.075375
+DEBUG:root:1: hemianopic sick person with or without ## 0.0
+DEBUG:root:2: hemianopic case with or without ## -0.03582537
+DEBUG:root:1: of hemianopic sick person ## -2.140361
+DEBUG:root:2: of hemianopic case ## -4.994365
+DEBUG:root:1: of hemianopic sick person with ## 0.0
+DEBUG:root:2: of hemianopic case with ## -1.92712
+DEBUG:root:1: of hemianopic sick person with or ## -3.130601
+DEBUG:root:2: of hemianopic case with or ## -3.075375
+DEBUG:root:1: of hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: of hemianopic case with or without ## -0.03582537
+DEBUG:root:1: sick person without ## -2.894773
+DEBUG:root:2: case without ## -3.225383
+DEBUG:root:1: sick person without unilateral ## -6.313619
+DEBUG:root:2: case without unilateral ## -6.082653
+DEBUG:root:1: sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: case without unilateral spatial ## 0.0
+DEBUG:root:1: sick person without unilateral spatial neglect ## -0.009264463
+DEBUG:root:2: case without unilateral spatial neglect ## -0.009264463
+DEBUG:root:1: Hemianopic sick person ## 0.0
+DEBUG:root:2: Hemianopic case ## 0.0
+DEBUG:root:1: Hemianopic sick person without ## -2.894773
+DEBUG:root:2: Hemianopic case without ## -3.225383
+DEBUG:root:1: Hemianopic sick person without unilateral ## 0.0
+DEBUG:root:2: Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: camera Hemianopic sick person ## -2.140361
+DEBUG:root:2: camera Hemianopic case ## 0.0
+DEBUG:root:1: camera Hemianopic sick person without ## -2.894773
+DEBUG:root:2: camera Hemianopic case without ## -3.225383
+DEBUG:root:1: camera Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: camera Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: camera Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: camera Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## 0.0
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## 0.0
+DEBUG:root:2: hemianopic case with ## -1.92712
+DEBUG:root:1: hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: left hemianopic sick person ## -2.140361
+DEBUG:root:2: left hemianopic case ## -4.4762
+DEBUG:root:1: left hemianopic sick person with ## -1.944321
+DEBUG:root:2: left hemianopic case with ## -1.92712
+DEBUG:root:1: left hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: left hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: left hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: left hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person are ## -2.573626
+DEBUG:root:2: case are ## -2.827749
+DEBUG:root:1: sick person are growing ## -4.325148
+DEBUG:root:2: case are growing ## 0.0
+DEBUG:root:1: sick person are growing older ## -2.453279
+DEBUG:root:2: case are growing older ## -2.453279
+DEBUG:root:1: sick person are growing older but ## -1.698187
+DEBUG:root:2: case are growing older but ## -1.698187
+DEBUG:root:1: Your sick person ## -3.352527
+DEBUG:root:2: Your case ## -3.147771
+DEBUG:root:1: Your sick person are ## -2.573626
+DEBUG:root:2: Your case are ## 0.0
+DEBUG:root:1: Your sick person are growing ## -4.325148
+DEBUG:root:2: Your case are growing ## 0.0
+DEBUG:root:1: Your sick person are growing older ## -2.453279
+DEBUG:root:2: Your case are growing older ## 0.0
+DEBUG:root:total = 180 || cabove = 77 || cdown = 103
+DEBUG:root:############### END of one sentence#################
+DEBUG:root:clean str = 
+A third generation balloon catheter that accepts a fiberoptic has been developed  The fiberoptic is inserted through the catheter to the center of the balloon when the balloon is in the area of the retinal break  Viewed with the ophthalmoscope light at dim to off  the balloon can be seen glowing through the wall of the eye  The position of the balloon can then be shifted until the glow is precisely under the retinal break 
+DEBUG:root:1: adult in ## -2.380305
+DEBUG:root:2: female in ## -2.372292
+DEBUG:root:1: adult in science ## 0.0
+DEBUG:root:2: female in science ## -3.528025
+DEBUG:root:1: adult in science Positive ## -4.738538
+DEBUG:root:2: female in science Positive ## -4.721922
+DEBUG:root:1: adult in science Positive measures ## -3.734975
+DEBUG:root:2: female in science Positive measures ## -3.734975
+DEBUG:root:1: for adult ## -3.705501
+DEBUG:root:2: for female ## -4.040117
+DEBUG:root:1: for adult in ## 0.0
+DEBUG:root:2: for female in ## -2.681338
+DEBUG:root:1: for adult in science ## -4.074112
+DEBUG:root:2: for female in science ## 0.0
+DEBUG:root:1: for adult in science Positive ## -4.738538
+DEBUG:root:2: for female in science Positive ## -4.721922
+DEBUG:root:1: better for adult ## -4.322893
+DEBUG:root:2: better for female ## -4.225421
+DEBUG:root:1: better for adult in ## -3.249009
+DEBUG:root:2: better for female in ## -2.720507
+DEBUG:root:1: better for adult in science ## -4.074112
+DEBUG:root:2: better for female in science ## -3.520978
+DEBUG:root:1: better for adult in science Positive ## -4.738538
+DEBUG:root:2: better for female in science Positive ## -4.721922
+DEBUG:root:1: nonfiction examines ## 0.0
+DEBUG:root:2: piece examines ## -4.273788
+DEBUG:root:1: nonfiction examines why ## -2.270395
+DEBUG:root:2: piece examines why ## -1.759622
+DEBUG:root:1: nonfiction examines why older ## -1.908138
+DEBUG:root:2: piece examines why older ## -2.215657
+DEBUG:root:1: nonfiction examines why older people ## 0.0
+DEBUG:root:2: piece examines why older people ## -2.492324
+DEBUG:root:1: This nonfiction ## -6.077216
+DEBUG:root:2: This piece ## 0.0
+DEBUG:root:1: This nonfiction examines ## -5.566266
+DEBUG:root:2: This piece examines ## 0.0
+DEBUG:root:1: This nonfiction examines why ## -2.270395
+DEBUG:root:2: This piece examines why ## 0.0
+DEBUG:root:1: This nonfiction examines why older ## -1.908138
+DEBUG:root:2: This piece examines why older ## -2.215657
+DEBUG:root:1: attention This nonfiction ## -6.533129
+DEBUG:root:2: attention This piece ## -3.247385
+DEBUG:root:1: attention This nonfiction examines ## -5.566266
+DEBUG:root:2: attention This piece examines ## -3.643094
+DEBUG:root:1: attention This nonfiction examines why ## -2.270395
+DEBUG:root:2: attention This piece examines why ## -1.962337
+DEBUG:root:1: attention This nonfiction examines why older ## -1.908138
+DEBUG:root:2: attention This piece examines why older ## -2.215657
+DEBUG:root:1: causal agent at ## -2.854021
+DEBUG:root:2: organism at ## -2.574287
+DEBUG:root:1: causal agent at risk ## -3.576905
+DEBUG:root:2: organism at risk ## -2.178346
+DEBUG:root:1: causal agent at risk for ## -1.109326
+DEBUG:root:2: organism at risk for ## -0.5942857
+DEBUG:root:1: causal agent at risk for falling ## -2.626375
+DEBUG:root:2: organism at risk for falling ## -2.626375
+DEBUG:root:1: place causal agent ## -1.739128
+DEBUG:root:2: place organism ## -6.984075
+DEBUG:root:1: place causal agent at ## -2.854021
+DEBUG:root:2: place organism at ## -2.574287
+DEBUG:root:1: place causal agent at risk ## -3.576905
+DEBUG:root:2: place organism at risk ## -2.178346
+DEBUG:root:1: place causal agent at risk for ## -1.109326
+DEBUG:root:2: place organism at risk for ## -0.5942857
+DEBUG:root:1: factors place causal agent ## -1.739128
+DEBUG:root:2: factors place organism ## 0.0
+DEBUG:root:1: factors place causal agent at ## 0.0
+DEBUG:root:2: factors place organism at ## -2.574287
+DEBUG:root:1: factors place causal agent at risk ## -3.576905
+DEBUG:root:2: factors place organism at risk ## -2.178346
+DEBUG:root:1: factors place causal agent at risk for ## -1.109326
+DEBUG:root:2: factors place organism at risk for ## -0.5942857
+DEBUG:root:1: sick person who ## -1.501769
+DEBUG:root:2: case who ## -3.561543
+DEBUG:root:1: sick person who were ## -4.21804
+DEBUG:root:2: case who were ## -1.781843
+DEBUG:root:1: sick person who were employed ## -2.660679
+DEBUG:root:2: case who were employed ## -2.593701
+DEBUG:root:1: sick person who were employed before ## -2.008029
+DEBUG:root:2: case who were employed before ## -2.008029
+DEBUG:root:1: burn sick person ## 0.0
+DEBUG:root:2: burn case ## -4.024618
+DEBUG:root:1: burn sick person who ## -1.501769
+DEBUG:root:2: burn case who ## -3.792506
+DEBUG:root:1: burn sick person who were ## -4.21804
+DEBUG:root:2: burn case who were ## -1.781843
+DEBUG:root:1: burn sick person who were employed ## -2.660679
+DEBUG:root:2: burn case who were employed ## -2.593701
+DEBUG:root:1: adult burn sick person ## -2.523614
+DEBUG:root:2: adult burn case ## -4.878932
+DEBUG:root:1: adult burn sick person who ## -1.501769
+DEBUG:root:2: adult burn case who ## -3.792506
+DEBUG:root:1: adult burn sick person who were ## -4.21804
+DEBUG:root:2: adult burn case who were ## -1.781843
+DEBUG:root:1: adult burn sick person who were employed ## -2.660679
+DEBUG:root:2: adult burn case who were employed ## -2.593701
+DEBUG:root:1: sick person and ## -1.346355
+DEBUG:root:2: case and ## -1.798075
+DEBUG:root:1: sick person and type ## -3.491499
+DEBUG:root:2: case and type ## -3.904486
+DEBUG:root:1: sick person and type of ## -0.7088951
+DEBUG:root:2: case and type of ## -0.5541115
+DEBUG:root:1: sick person and type of job ## -3.096861
+DEBUG:root:2: case and type of job ## -2.886479
+DEBUG:root:1: the sick person ## -1.560543
+DEBUG:root:2: the case ## -2.708868
+DEBUG:root:1: the sick person and ## -1.150657
+DEBUG:root:2: the case and ## -1.711607
+DEBUG:root:1: the sick person and type ## -3.683385
+DEBUG:root:2: the case and type ## -4.275968
+DEBUG:root:1: the sick person and type of ## -0.7088951
+DEBUG:root:2: the case and type of ## -0.1675994
+DEBUG:root:1: of the sick person ## -1.643748
+DEBUG:root:2: of the case ## -3.099061
+DEBUG:root:1: of the sick person and ## -0.8080085
+DEBUG:root:2: of the case and ## -1.114453
+DEBUG:root:1: of the sick person and type ## -3.683385
+DEBUG:root:2: of the case and type ## -4.041301
+DEBUG:root:1: of the sick person and type of ## -0.7088951
+DEBUG:root:2: of the case and type of ## -0.1675994
+DEBUG:root:1: sick person diabetic ## -6.337954
+DEBUG:root:2: case diabetic ## -6.058985
+DEBUG:root:1: sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person diabetic retinopathy had a ## 0.0
+DEBUG:root:2: case diabetic retinopathy had a ## -0.708133
+DEBUG:root:1: with sick person ## -3.047317
+DEBUG:root:2: with case ## -4.003859
+DEBUG:root:1: with sick person diabetic ## -6.337954
+DEBUG:root:2: with case diabetic ## -6.432923
+DEBUG:root:1: with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: Patients with sick person ## -4.122186
+DEBUG:root:2: Patients with case ## -4.892652
+DEBUG:root:1: Patients with sick person diabetic ## -6.337954
+DEBUG:root:2: Patients with case diabetic ## -6.566503
+DEBUG:root:1: Patients with sick person diabetic retinopathy ## -1.550146
+DEBUG:root:2: Patients with case diabetic retinopathy ## -0.9537281
+DEBUG:root:1: Patients with sick person diabetic retinopathy had ## -3.543583
+DEBUG:root:2: Patients with case diabetic retinopathy had ## -3.543583
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## 0.0
+DEBUG:root:1: sick person with neglect ## -5.508193
+DEBUG:root:2: case with neglect ## -5.656653
+DEBUG:root:1: sick person with neglect make ## -3.879554
+DEBUG:root:2: case with neglect make ## -3.879554
+DEBUG:root:1: sick person with neglect make larger ## -4.375327
+DEBUG:root:2: case with neglect make larger ## -4.375327
+DEBUG:root:1: that sick person ## -2.120135
+DEBUG:root:2: that case ## -3.106363
+DEBUG:root:1: that sick person with ## -1.985343
+DEBUG:root:2: that case with ## -2.643579
+DEBUG:root:1: that sick person with neglect ## -5.508193
+DEBUG:root:2: that case with neglect ## -6.022484
+DEBUG:root:1: that sick person with neglect make ## -3.879554
+DEBUG:root:2: that case with neglect make ## -3.879554
+DEBUG:root:1: finding that sick person ## -2.120135
+DEBUG:root:2: finding that case ## -4.131364
+DEBUG:root:1: finding that sick person with ## -1.985343
+DEBUG:root:2: finding that case with ## -2.643579
+DEBUG:root:1: finding that sick person with neglect ## -5.508193
+DEBUG:root:2: finding that case with neglect ## -6.022484
+DEBUG:root:1: finding that sick person with neglect make ## -3.879554
+DEBUG:root:2: finding that case with neglect make ## -3.879554
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with left ## -4.892192
+DEBUG:root:2: case with left ## 0.0
+DEBUG:root:1: sick person with left sided ## 0.0
+DEBUG:root:2: case with left sided ## -1.755182
+DEBUG:root:1: sick person with left sided neglect ## -2.314996
+DEBUG:root:2: case with left sided neglect ## -1.816334
+DEBUG:root:1: a sick person ## -1.080853
+DEBUG:root:2: a case ## -3.02762
+DEBUG:root:1: a sick person with ## 0.0
+DEBUG:root:2: a case with ## -2.035614
+DEBUG:root:1: a sick person with left ## -5.017979
+DEBUG:root:2: a case with left ## -3.651448
+DEBUG:root:1: a sick person with left sided ## -0.5679893
+DEBUG:root:2: a case with left sided ## -1.755182
+DEBUG:root:1: from a sick person ## -1.010179
+DEBUG:root:2: from a case ## -3.279554
+DEBUG:root:1: from a sick person with ## -2.090757
+DEBUG:root:2: from a case with ## -2.204785
+DEBUG:root:1: from a sick person with left ## -5.017979
+DEBUG:root:2: from a case with left ## -3.622785
+DEBUG:root:1: from a sick person with left sided ## -0.5679893
+DEBUG:root:2: from a case with left sided ## -1.755182
+DEBUG:root:1: dimension increased ## -4.15201
+DEBUG:root:2: fundamental quantity increased ## 0.0
+DEBUG:root:1: dimension increased a ## 0.0
+DEBUG:root:2: fundamental quantity increased a ## 0.0
+DEBUG:root:1: dimension increased a finding ## -3.089092
+DEBUG:root:2: fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension increased a finding consistent ## -2.324579
+DEBUG:root:2: fundamental quantity increased a finding consistent ## -2.324579
+DEBUG:root:1: their dimension ## -5.173382
+DEBUG:root:2: their fundamental quantity ## -4.284891
+DEBUG:root:1: their dimension increased ## -4.336746
+DEBUG:root:2: their fundamental quantity increased ## -3.915564
+DEBUG:root:1: their dimension increased a ## -2.843222
+DEBUG:root:2: their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: their dimension increased a finding ## -3.089092
+DEBUG:root:2: their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: as their dimension ## -5.027875
+DEBUG:root:2: as their fundamental quantity ## -4.346046
+DEBUG:root:1: as their dimension increased ## -4.336746
+DEBUG:root:2: as their fundamental quantity increased ## -3.915564
+DEBUG:root:1: as their dimension increased a ## -2.843222
+DEBUG:root:2: as their fundamental quantity increased a ## -3.861153
+DEBUG:root:1: as their dimension increased a finding ## -3.089092
+DEBUG:root:2: as their fundamental quantity increased a finding ## -3.089092
+DEBUG:root:1: dimension and ## -1.41126
+DEBUG:root:2: fundamental quantity and ## 0.0
+DEBUG:root:1: dimension and lateral ## -4.5093
+DEBUG:root:2: fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: dimension and lateral extent ## -2.252157
+DEBUG:root:2: fundamental quantity and lateral extent ## 0.0
+DEBUG:root:1: dimension and lateral extent of ## -0.1447126
+DEBUG:root:2: fundamental quantity and lateral extent of ## -0.1447126
+DEBUG:root:1: to dimension ## 0.0
+DEBUG:root:2: to fundamental quantity ## -3.491656
+DEBUG:root:1: to dimension and ## -1.403829
+DEBUG:root:2: to fundamental quantity and ## -3.236344
+DEBUG:root:1: to dimension and lateral ## -4.681036
+DEBUG:root:2: to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: to dimension and lateral extent ## -2.252157
+DEBUG:root:2: to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: related to dimension ## -5.348518
+DEBUG:root:2: related to fundamental quantity ## -3.616113
+DEBUG:root:1: related to dimension and ## -1.002421
+DEBUG:root:2: related to fundamental quantity and ## -3.236344
+DEBUG:root:1: related to dimension and lateral ## -4.681036
+DEBUG:root:2: related to fundamental quantity and lateral ## -5.785699
+DEBUG:root:1: related to dimension and lateral extent ## -2.252157
+DEBUG:root:2: related to fundamental quantity and lateral extent ## -2.252157
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: sick person place ## -3.455754
+DEBUG:root:2: case place ## -4.617804
+DEBUG:root:1: sick person place the ## -2.510509
+DEBUG:root:2: case place the ## -0.5966998
+DEBUG:root:1: sick person place the mark ## -3.793816
+DEBUG:root:2: case place the mark ## -3.804377
+DEBUG:root:1: sick person place the mark to ## -1.914611
+DEBUG:root:2: case place the mark to ## -1.914611
+DEBUG:root:1: these sick person ## -2.539342
+DEBUG:root:2: these case ## -3.781136
+DEBUG:root:1: these sick person place ## -3.455754
+DEBUG:root:2: these case place ## -5.466442
+DEBUG:root:1: these sick person place the ## -2.510509
+DEBUG:root:2: these case place the ## -0.5966998
+DEBUG:root:1: these sick person place the mark ## -3.793816
+DEBUG:root:2: these case place the mark ## -3.804377
+DEBUG:root:1: line these sick person ## 0.0
+DEBUG:root:2: line these case ## -3.885794
+DEBUG:root:1: line these sick person place ## -3.455754
+DEBUG:root:2: line these case place ## -5.466442
+DEBUG:root:1: line these sick person place the ## 0.0
+DEBUG:root:2: line these case place the ## -0.5966998
+DEBUG:root:1: line these sick person place the mark ## -3.793816
+DEBUG:root:2: line these case place the mark ## -3.804377
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with or ## -3.130601
+DEBUG:root:2: case with or ## -3.075375
+DEBUG:root:1: sick person with or without ## -0.1055489
+DEBUG:root:2: case with or without ## -0.03582537
+DEBUG:root:1: sick person with or without unilateral ## -5.237921
+DEBUG:root:2: case with or without unilateral ## -4.982627
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## -1.92712
+DEBUG:root:1: hemianopic sick person with or ## -3.130601
+DEBUG:root:2: hemianopic case with or ## -3.075375
+DEBUG:root:1: hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: hemianopic case with or without ## -0.03582537
+DEBUG:root:1: of hemianopic sick person ## -2.140361
+DEBUG:root:2: of hemianopic case ## -4.994365
+DEBUG:root:1: of hemianopic sick person with ## -1.944321
+DEBUG:root:2: of hemianopic case with ## -1.92712
+DEBUG:root:1: of hemianopic sick person with or ## -3.130601
+DEBUG:root:2: of hemianopic case with or ## -3.075375
+DEBUG:root:1: of hemianopic sick person with or without ## -0.1055489
+DEBUG:root:2: of hemianopic case with or without ## -0.03582537
+DEBUG:root:1: sick person without ## -2.894773
+DEBUG:root:2: case without ## -3.225383
+DEBUG:root:1: sick person without unilateral ## -6.313619
+DEBUG:root:2: case without unilateral ## -6.082653
+DEBUG:root:1: sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person without unilateral spatial neglect ## 0.0
+DEBUG:root:2: case without unilateral spatial neglect ## -0.009264463
+DEBUG:root:1: Hemianopic sick person ## -2.140361
+DEBUG:root:2: Hemianopic case ## -4.4762
+DEBUG:root:1: Hemianopic sick person without ## -2.894773
+DEBUG:root:2: Hemianopic case without ## -3.225383
+DEBUG:root:1: Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: camera Hemianopic sick person ## -2.140361
+DEBUG:root:2: camera Hemianopic case ## -4.4762
+DEBUG:root:1: camera Hemianopic sick person without ## -2.894773
+DEBUG:root:2: camera Hemianopic case without ## -3.225383
+DEBUG:root:1: camera Hemianopic sick person without unilateral ## -6.313619
+DEBUG:root:2: camera Hemianopic case without unilateral ## -6.082653
+DEBUG:root:1: camera Hemianopic sick person without unilateral spatial ## -1.016575
+DEBUG:root:2: camera Hemianopic case without unilateral spatial ## -1.016575
+DEBUG:root:1: sick person with ## -1.944321
+DEBUG:root:2: case with ## -1.92712
+DEBUG:root:1: sick person with unilateral ## -5.395546
+DEBUG:root:2: case with unilateral ## -4.572266
+DEBUG:root:1: sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: case with unilateral spatial ## -2.30165
+DEBUG:root:1: sick person with unilateral spatial neglect ## -0.00528267
+DEBUG:root:2: case with unilateral spatial neglect ## -0.00528267
+DEBUG:root:1: hemianopic sick person ## -2.140361
+DEBUG:root:2: hemianopic case ## -4.4762
+DEBUG:root:1: hemianopic sick person with ## -1.944321
+DEBUG:root:2: hemianopic case with ## -1.92712
+DEBUG:root:1: hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: hemianopic sick person with unilateral spatial ## 0.0
+DEBUG:root:2: hemianopic case with unilateral spatial ## -2.30165
+DEBUG:root:1: left hemianopic sick person ## -2.140361
+DEBUG:root:2: left hemianopic case ## -4.4762
+DEBUG:root:1: left hemianopic sick person with ## -1.944321
+DEBUG:root:2: left hemianopic case with ## 0.0
+DEBUG:root:1: left hemianopic sick person with unilateral ## -5.395546
+DEBUG:root:2: left hemianopic case with unilateral ## -4.572266
+DEBUG:root:1: left hemianopic sick person with unilateral spatial ## -2.183479
+DEBUG:root:2: left hemianopic case with unilateral spatial ## -2.30165
