@@ -6,5 +6,8 @@ all:
 r:
 	python example.py
 
+n:
+	python ngramQuery.py
+
 compile:
 	javac URLConnectionReader.java

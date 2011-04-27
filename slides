@@ -52,3 +52,11 @@ Notations:	O:	original abstract	N:	fully generalised version
 ###########################################################################################
 
 TODO:
+The Web N-gram services provide you access to:
+
+    * Content types: Document Body, Document Title, Anchor Texts
+    * Model types: Smoothed models
+    * N-gram availability: unigram, bigram, trigram, N-gram with N=4, 5
+    * Training size (Body): All documents indexed by Bing in the en-us market
+    * Access: Hosted Services by Microsoft
+    * Updates: Periodical updates 
