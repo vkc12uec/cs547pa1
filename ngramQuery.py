@@ -136,7 +136,7 @@ def queryNgram1(sent, posi, hypname):
 	for combi in elist:
 		tmp.append(combi.replace(hypname, orig))
 		tmp.append(combi)
-	logging.debug ('\n'.join(tmp))
+	#logging.debug ('\n'.join(tmp))
 	logging.debug('----------------------------------')
 	glob_tmp.extend(tmp)
 	#queryMS (tmp)
@@ -144,18 +144,34 @@ def queryNgram1(sent, posi, hypname):
 def queryMS (tmp):
 	# tmp list contains orig ngram and replace ngram
 	elist = []
+	oprobs = []
+	nprobs = []
 	s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/5')
 	sw = -1
 	for item in tmp:
 		prob = s.GetConditionalProbability(item)
 		if sw == -1:
-			elist.append('O: %s ## %s' % (item, prob))
+			#elist.append('O: %s ## %s' % (item, prob))
+			oprobs.append(prob)
 		else:
-			elist.append('%s ## %s' % (item, prob))
+			#elist.append('%s ## %s' % (item, prob))
+			nprobs.append(prob)
 		sw *= (-1)
 			
 	logging.debug('##################################')
+	oSum = float(sum(oprobs))
+	nSum = float(sum(nprobs))
+	cabove = 0
+	cdown = 0
+	for p in range(0, len(oSum)):
+		if nSum[p] < oSum[p]:
+			cabove += 1
+		else:
+			cdown += 1
+
+	st = 'total = %s || cabove = %s || cdown = %s' % (len(oSum), cabove, cdown)
 	logging.debug('\n'.join(elist))
+	logging.debug('orig p = %s || new p = %s' % (oSum, nSum))
 
 
 def queryNgram(sent, posi):
