@@ -86,9 +86,12 @@ def ex6(sent):
 			#logging.debug('posi = %s  || noun = %s || 1st hypernym = %s || 2nd hypernym = %s' % (posi, mynoun, first_hyp, second_hyp))
 
 			queryNgram2(sent, posi, first_hyp, second_hyp)
+			queryMS(glob_tmp)
+			del glob_tmp[:]			# clear after every resolution
 			#queryNgram2(sent, posi, second_hyp)
-	print 'size of glob_tmp = '+ str(len(glob_tmp))		# for one sentence of abstract
-	queryMS(glob_tmp)
+	logging.debug('############### END of one sentence #################') 
+	#print 'size of glob_tmp = '+ str(len(glob_tmp))		# for one sentence of abstract
+	#queryMS(glob_tmp)
 
 def queryNgram2(sent, posi, hypname, hypname2):
 	list_words = sent.split()
@@ -262,7 +265,7 @@ def queryMS (tmp):
 
 	st = 'total = %s || hyp1 likelihood count = %s || hyp2 likelihood count = %s' % (len(oprobs), cabove, cdown)
 	logging.debug(st)
-	logging.debug('############### END of one sentence #################') 
+	#logging.debug('############### END of one sentence #################') 
 	#logging.debug('\n'.join(elist))
 	return
 
