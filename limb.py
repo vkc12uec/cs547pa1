@@ -1,9 +1,9 @@
 import MicrosoftNgram
 import sys
 
-s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/jun09/3/')
+#s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/jun09/3/')
 #s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/1/')
-#s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/5/')
+s = MicrosoftNgram.LookupService(token='6855f2b9-927e-4a6e-8766-fe907b235186',model='bing-body/apr10/5/')
 #print s.GetConditionalProbability('happy cat is happy')
 #sys.exit()
 
@@ -23,8 +23,8 @@ mylist6 = ['purchased drug for backache', 'purchased drug for the lumbar pain', 
 #mylist7 = ['Achromatopsia due to low cell count', 'Achromatopsia due to low visual cell count', 'Achromatopsia due to low retinal cone count']
 mylist7 = ['used prohibited drug for phantom limb pain','used soft drug for phantom limb pain', 'used controlled substance for phantom limb pain']
 #mylist7 = ['uses of soft drug for phantom limb pain', 'uses of controlled substance for phantom limb pain']
-#mylist8 = ['alcohol affects brain', 'alcohol affects mind', 'alcohol affects head']
-mylist8 = ['parkinson disease behaved demented', 'parkinson disease behaved insanely', 'parkinson disease behaved crazily', 'parkinson disease behaved disorder']
+mylist8 = ['alcohol affects the brain', 'alcohol affects the mind', 'alcohol affects the head', 'alcohol affects the cerebellum', 'alcohol affects the neural structure', 'alcohol affects the heart', 'alcohol affects the internal organ', 'alcohol affects the viscus']
+#mylist8 = ['parkinson disease behaved demented', 'parkinson disease behaved insanely', 'parkinson disease behaved crazily', 'parkinson disease behaved disorder']
 
 #for t in s.Generate('doctor prescription', maxgen=5): 
 #	print t

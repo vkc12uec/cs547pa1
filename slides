@@ -26,6 +26,12 @@ hypernyms (head) => { brain, mind}
 alcohol affected brain => -2.225491
 alcohol affected mind => -5.053861
 
+ORIGINAL:	alcohol affects the heart => -2.049069
+
+MODIFIED:	alcohol affects the internal organ => -3.862069
+			alcohol affects the viscus => -8.866294
+
+
 Clearly, using "brain" rather than "mind" gives a better readability to the user.
 
 Part 2: Blind generalization of ambiguous abstracts
@@ -46,9 +52,3 @@ Notations:	O:	original abstract	N:	fully generalised version
 ###########################################################################################
 
 TODO:
-
-O:A case of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis.
-
-N:A entity of nonvesicular dermatitis herpetiformis with clear-cut perimenstrual exacerbations is described and differentiated from autoimmune progesterone dermatitis .
-
-vkc says:	dermatitis is a skin disease , but we are not generalizing it, becoz it has just one synset
